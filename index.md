@@ -1,15 +1,3 @@
-<html>
-  <nav>
-    <ul>
-      <li>
-        <a href="/">Home</a>
-      </li>
-      <li>
-        <a href="/teaching">Teaching</a>
-      </li>
-    </ul>
-  </nav>
-</html>
 
 [comment]: <> (This is a comment)
 
