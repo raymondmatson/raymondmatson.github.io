@@ -1,5 +1,9 @@
-theme: jekyll-theme-cayman
----
-layout: default
----
+# Basic options
+title: Title Goes Here
+author: Raymond Matson
+email: rmatson94@comcast.net
+description: Description here
 
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-cayman
