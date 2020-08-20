@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <style type="text/css">
+      A:link { COLOR: darkblue; TEXT-DECORATION: none; font-weight: normal }
+      A:visited { COLOR: green; TEXT-DECORATION: none; font-weight: normal }
+      A:active { COLOR: black; TEXT-DECORATION: none }
+      A:hover { COLOR: orange; TEXT-DECORATION: none; font-weight: none }
+    </style>
     <title>{{ page.title }}</title>
     
     <link rel="stylesheet" type="text/css" href="/css/main.css">
@@ -10,25 +16,28 @@
 
   <body>
     <nav>
-<ul>
-<li><a href="/">Home</a></li>
-<li><a href="/about">About</a></li>
-<li><a href="/teaching">Teaching</a></li>
-<li><a href="/blog">Blog</a></li>
-</ul>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/math-interests">Math Interests</a></li>
+        <li><a href="/teaching">Teaching</a></li>
+        </ul>
     </nav>
-<div class="container">
+  <div class="container">
 
-  {{ content }}
+    {{ content }}
 
-</div>
-  
-  <footer>
-   <ul>
-   <li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-   <li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
-   </ul>
-  </footer>
+  </div>
+    
+    <footer>
+      <ul>
+        <p>
+          <a href="https://www.linkedin.com/in/raymond-matson-71430814a/"><img src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" align="right" width="70" height="70"></a>
+          <p>Office: Skye 266</p>
+          E-mail: <li><a href="mailto:rmats014@ucr.edu" style="color:black">rmats014@ucr.edu</a></li>
+        </p>
+      </ul>
+    </footer>
   </body>
 
 </html>
