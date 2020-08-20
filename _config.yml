@@ -6,4 +6,4 @@ description: Description Goes Here
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
