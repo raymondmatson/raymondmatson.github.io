@@ -1,12 +1,52 @@
 <!DOCTYPE html>
 <html>
+  <script type="text/javascript" async 
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?
+    config=TeX-AMS-MML_HTMLorMML">
+  </script>
+  <!-- <script>
+  $(document).ready(function() {
+    // AJAX in the data file
+    $.ajax({
+      type: "GET",
+      url: "quotes.txt",
+      dataType: "text",
+      success: function(data) {
+        processData(data);}
+      });
+
+    function processData(allText) {
+      var allTextLines = allText.split(/\r\n|\n/);
+      var quoteClass = [];
+      var quoteAlignment = [];
+      var quoteFont = []
+      var quoteColor = []
+      var quoteQuote = []
+      var quoteAuthor = []
+      var headings = allTextLines[0].split('\t');
+      for (var i=1; i<allTextLines.length; i++) {
+        var values = allTextLines[i].split('\t');
+          quoteClass.push(values[0]);
+          quoteAlignment.push(values[1]);
+          quoteFont.push(values[2]);
+          quoteColor.push(values[3]);
+          quoteQuote.push(values[4]);
+          quoteAuthor.push(values[5]);
+        }
+      }
+    })
+  </script> -->
+
   <head>
+    <!-- Styles -->
     <style type="text/css">
       A:link { COLOR: darkblue; TEXT-DECORATION: none; font-weight: normal }
       A:visited { COLOR: green; TEXT-DECORATION: none; font-weight: normal }
       A:active { COLOR: black; TEXT-DECORATION: none }
       A:hover { COLOR: orange; TEXT-DECORATION: none; font-weight: none }
     </style>
+
+    <!-- Titles the page's tab -->
     <title>{{ page.title }}</title>
     
     <link rel="stylesheet" type="text/css" href="/css/main.css">
@@ -21,12 +61,11 @@
         <li><a href="/about">About</a></li>
         <li><a href="/math-interests">Math Interests</a></li>
         <li><a href="/teaching">Teaching</a></li>
-        </ul>
+      </ul>
     </nav>
+
   <div class="container">
-
     {{ content }}
-
   </div>
     
     <footer>
@@ -37,7 +76,45 @@
           E-mail: <li><a href="mailto:rmats014@ucr.edu" style="color:black">rmats014@ucr.edu</a></li>
         </p>
       </ul>
+      <br>
+      <div class="quote-content">
+        <!-- <script>
+          for(i = 0; i < quoteClass.length; i++){
+            document.write('<p class="' + quoteClass[i] + '" align=' + quoteAlignment[i] + 'style="font-size:' + quoteAlignment[i] + '; color:' + quoteColor[i] '"><em>"' + quoteQuote[i] + '"</em> - '+ quoteAuthor[i] + '</p>');
+          }
+        </script> -->
+        <p class="myQuotes" align=center style="font-size:100%; color:585858"><em>Two algebraic geometers are investigating a crime. One turns to the other and says, "we still don't know what the motives are."</em> - Pseudoholomorphic Memes for Quasi-Isometric Teens</p>
+        <p class="myQuotes" align=center style="font-size:100%; color:585858"><em>"The introduction of numbers as coordinates... is an act of violence..."</em> - Hermann Weyl</p>
+        <p class="myQuotes" align=center style="font-size:100%; color:585858"><em>"Whoever decided to put x after f really messed it up for the rest of us."</em> - Stefano Vidussi</p>
+        <p class="myQuotes" align=center style="font-size:100%; color:585858"><em>"The statement sometimes made, that there exist only analytic functions in nature, is in my opinion absurd."</em> - Felix Klein</p>
+        <p class="myQuotes" align=center style="font-size:100%; color:585858"><em>"The paradox is now fully established that the utmost abstractions are the true weapons with which to control out thought of concrete fact."</em> - Alfred Whitehead</p>
+        <p class="myQuotes" align=center style="font-size:100%; color:585858"><em>"The Committee which was set up in Rome for the unification of vector notation did not have the slightest success, which was only to have been expected."</em> - Felix Klein</p>
+        <p class="myQuotes" align=center style="font-size:100%; color:585858"><em>"Geometry is magic that works."</em> - René Thom</p>
+        <p class="myQuotes" align=center style="font-size:100%; color:585858"><em>"Topology has the peculiarity that questions belonging in its domain may under certain circumstances be decidable even though the continua to which they are addressed may not be given exactly, but only vaguely, as is always the case in reality."</em> - Hermann Weyl</p>
+        <p class="myQuotes" align=center style="font-size:100%; color:585858"><em>"Mathematicians are like Frenchman: whatever you say to them they translate into their own language and forthwith it is something completely different."</em> - Johann Goethe</p>
+        <p class="myQuotes" align=center style="font-size:100%; color:585858"><em>"Concerned with forms we gain a healthy disrespect for their authority."</em> - Michael Shub</p>
+        <p class="myQuotes" align=center style="font-size:100%; color:585858"><em>"Girls are capagble of doing everything men are capable of. Sometimes they have more imagination than men."</em> - Katherine Johnson</p>
+        <p class="myQuotes" align=center style="font-size:100%; color:585858"><em>"'Obvious' is the most dangerous word in mathematics."</em> - Eric Bell</p>
+        <p class="myQuotes" align=center style="font-size:100%; color:585858"><em>"Classes will dull your mind, destroy the potential for authentic creativity."</em> - John Nash</p>
+        <p class="myQuotes" align=center style="font-size:100%; color:585858"><em>"As you will find in multivariable calculus, there is often a number of solutions for any given problem."</em> - John Nash</p>
+        <p class="myQuotes" align=center style="font-size:100%; color:585858"><em>"A mathematician is a device for turning coffee into theorems."</em> - Paul Erdos</p>
+        <p class="myQuotes" align=center style="font-size:100%; color:585858"><em>"When I was growing up, I knew I wanted to be a mathematician, but I had no idea what that entailed."</em> - Terence Tao</p>
+        <p class="myQuotes" align=center style="font-size:100%; color:585858"><em>"God made the integers; all else is the work of man."</em> - Leopold Kronecker</p>
+        <p class="myQuotes" align=center style="font-size:100%; color:585858"><em>"I learned very early the difference between knowing the name of something and knowing something."</em> - Richard Feynman</p>
+        <p class="myQuotes" align=center style="font-size:100%; color:585858"><em>"I have the advantage of having found out how hard it is to get to really know something, how carefully you have to be about checking your experiments, how easy it is to make mistakes and fool yourself. I know what it means to know something."</em> - Richard Feynman</p>
+        <p class="myQuotes" align=center style="font-size:100%; color:585858"><em>"You may not like it but <span class="math inline">\[-\frac{1}{12}\mathbb{Z}\]</span> is an ideal"</em> - Complex Analysis Memes for Holomorphic Teens</p>
+        <!-- <p class="myQuotes" align=center style="font-size:100%; color:585858"><em>""</em> - </p> -->
+      </div>
     </footer>
   </body>
+
+  <!-- This script randomizes the quotes at the bottom of the page -->
+  <script>
+    var x = document.getElementsByClassName("myQuotes");
+    var quoteIndex = Math.floor(Math.random() * x.length) + 1;
+    for(i = 0; i < x.length; i++)
+      {x[i].style.display = "none";}
+    x[quoteIndex-1].style.display = "block";
+  </script>
 
 </html>
