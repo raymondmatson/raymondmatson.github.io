@@ -1,0 +1,34 @@
+<!-- Allows for LaTeX writing -->
+<script type="text/javascript" async 
+	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?
+	config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+
+<span class="site-footer-credits">
+	<!-- Contact information -->
+	<ul>
+		<p>
+			<a href="https://www.linkedin.com/in/raymond-matson-71430814a/"><img src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" align="right" width="70" height="70"></a>
+			<p>Office: Skye 266</p>
+			E-mail: <li><a href="mailto:rmats014@ucr.edu" style="color:black">rmats014@ucr.edu</a></li>
+		</p>
+	</ul>
+	<br>
+
+	<!-- Quotes -->
+	<div>
+		{% include myQuotes.html %}
+	</div>
+</span>
+
+<!-- Script to randomize quotes -->
+<script>
+	var x = document.getElementsByClassName("myQuotes");
+	var quoteIndex = Math.floor(Math.random() * x.length) + 1;
+	for(i = 0; i < x.length; i++) {
+		x[i].style.display = "none";
+	}
+	x[quoteIndex-1].style.display = "block";
+</script>
