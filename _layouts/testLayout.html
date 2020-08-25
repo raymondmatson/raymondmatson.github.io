@@ -1,28 +1,28 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <!-- Titles the page's tab -->
+    <title>{{ page.title }}</title>
 
-    <!-- Styles -->
+    <!-- Hyperlink Styles -->
     <style type="text/css">
-      A:link { COLOR: darkblue; TEXT-DECORATION: none; font-weight: normal }
+      A:link { COLOR: green; TEXT-DECORATION: none; font-weight: normal }/*darkblue*/
       A:visited { COLOR: green; TEXT-DECORATION: none; font-weight: normal }
       A:active { COLOR: black; TEXT-DECORATION: none }
       A:hover { COLOR: orange; TEXT-DECORATION: none; font-weight: none }
     </style>
 
-    <!-- Titles the page's tab -->
-    <title>{{ page.title }}</title>
-    
+    <!-- Page Style -->
     <link rel="stylesheet" type="text/css" href="/css/main.css">
 
   </head>
 
+  <!-- Navigation Bar -->
+  <nav>
+    {% include navigation.html %}
+  </nav>
 
   <body>
-    <nav>
-      {% include navigation.html %}
-    </nav>
-
     <div class="w3-content">
         <img class="myBannerSlides" src="https://support.litmos.com/hc/article_attachments/360009513054/CleanShot_2018-07-26_at_11.04.53.jpg" alt="custom_html_banner1" style="width:100%">
         <img class="myBannerSlides" src="https://enterprise.arcgis.com/en/portal/10.6/administer/windows/GUID-0AE8DC97-F4BD-4A4C-AC02-4EB9ABDB0A3F-web.png" alt="custom_html_banner2" style="width:100%">
@@ -31,11 +31,15 @@
         <button class="w3-button w3-black w3-display-left" onclick="plusBanner(-1)">&#10094;</button>
         <button class="w3-button w3-black w3-display-right" onclick="plusBanner(1)">&#10095;</button>
     </div>
+    <br>
 
-
-    <main id="content" class="main-content" role="main">
-      {{ content }}
-    </main>
+    <div id="wrapper">
+      <div id="container">
+        <main id="content" class="main-content" role="main">
+          {{ content }}
+        </main>
+      </div>
+    </div>
 
     <footer class="site-footer">
       {% include footer.html %}

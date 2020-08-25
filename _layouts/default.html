@@ -1,37 +1,55 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <!-- Page Style -->
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <!-- Titles the page's tab -->
+    <title>{{ page.title }}</title>
 
     <!-- Hyperlink Styles -->
     <style type="text/css">
-      A:link { COLOR: darkblue; TEXT-DECORATION: none; font-weight: normal }
+      A:link { COLOR: green; TEXT-DECORATION: none; font-weight: normal }/*darkblue*/
       A:visited { COLOR: green; TEXT-DECORATION: none; font-weight: normal }
       A:active { COLOR: black; TEXT-DECORATION: none }
       A:hover { COLOR: orange; TEXT-DECORATION: none; font-weight: none }
     </style>
 
-    <!-- Titles the page's tab -->
-    <title>{{ page.title }}</title>
+    <!-- Formatting of Page -->
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+      }
+      .imgbox {
+        display: grid;
+        height: 100%;
+      }
+      .center-fit {
+        max-width: 100%;
+        max-height: 100%;
+        margin: auto;
+      }
+    </style>
+
+    <!-- Page Style -->
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+
   </head>
 
+  <!-- Navigation Bar -->
+  <nav>
+    {% include navigation.html %}
+  </nav>
 
   <body>
-    <!-- Navigation Bar -->
-    <nav>
-      {% include navigation.html %}
-    </nav>
-
     <!-- Main content from index -->
-    <main id="content" class="main-content" role="main">
-      {{ content }}
+    <main id="content" class="main-content" role="main" style="height:100%; width:100%; text-align:center; margin-left:0px; margin-right:0px; border:2px solid darkblue;">
+        {{ content }}
     </main>
+    <br>
 
     <!-- Footer -->
     <footer class="site-footer">
       {% include footer.html %}
     </footer>
-  </body>
 
+  </body>
 </html>

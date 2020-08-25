@@ -1,12 +1,40 @@
 ---
 layout: testLayout
-title: Hank Quinlan's Blog
+title: Test Page
 ---
-<h1>{{ page.title }}</h1>
-<ul class="posts">
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    .imgbox {
+        display: grid;
+        height: 100%;
+    }
+    .center-fit {
+        max-width: 100%;
+        max-height: 100vh;
+        margin: auto;
+    }
+</style>
 
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-  {% endfor %}
-    
-</ul>
+
+<h1>{{ page.title }}</h1>
+
+<div class="imgbox">
+    <img class="center-fit" src="/0717180613_HDR.jpg">
+</div>
+
+<div id="banner">
+    <div class="contentWrapper">
+        <h1>Hi there!</h1>
+        <p>My name is Raymond Matson. I am in the process of testing this page out. Here is a random list of mathematical interests:
+            <ul style="list-style: none;">
+                <li>- Algebraic Topology (Go homologies!)</li>
+                <li>- Quantum Representation Theory</li>
+                <li>- Quiver Categories</li>
+            </ul>
+            In my free time, I also enjoy playing guitar. Insert stuff here. Test test test test test test test test test test testt est test test test testt est.
+        </p>
+    </div>
+</div>
