@@ -5,14 +5,20 @@ a:hover { text-decoration: underline; }
 
 p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
 
+/* Headers */
 h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 3em;  }
 h2 { font-size: 2.7em; }
 h3 { font-size: 2.3em; }
 h4 { font-size: 1.9em; }
 
-nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 5px; list-style: none; font-weight: bold; }
-nav ul li, footer ul li { display: inline; margin-right: 20px; }
+/* Navigation */
+nav ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 5px; list-style: none; font-weight: bold; border-bottom: 2px solid darkblue}
+nav ul li { display: inline; margin-right: 20px; }
+
+/* Footer */
+footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 5px; list-style: none; font-weight: bold; }
+footer ul li { display: inline; margin-right: 20px; }
 
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
@@ -36,9 +42,9 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 /* The container <div> - needed to position the dropdown content */
 .dropdown { position: relative; display: inline-block; }
 /* Dropdown Content (Hidden by Default) */
-.dropdown-content { display: none; position: absolute; background-color: green; min-width: 160px; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); z-index: 1; }
+.dropdown-content { display: none; position: absolute; background-color: darkgreen; min-width: 160px; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); z-index: 1; }
 /* Links inside the dropdown */
-.dropdown-content a { color: white; padding: 12px 16px; text-decoration: none; display: block; }
+.dropdown-content a { color: white; padding: 12px 16px; text-decoration: none; display: block; border:1px solid darkblue; }
 /* Change color of dropdown links on hover */
 .dropdown-content a:hover { color: orange; background-color: #003459; text-decoration: underline; }
 /* Show the dropdown menu on hover */
