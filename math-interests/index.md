@@ -32,7 +32,7 @@ title: Math Interests
 		</p>
 	</div>
 	<div class="talkBox-labelrighthalf">
-		<h4 style="color: green; margin-top: 7.5%; text-shadow: 1px 1px black;">The Game of Cops and Robbers on Graphs</h4>
+		<h4>The Game of Cops and Robbers on Graphs</h4>
 		<p style="margin-top: 3%;">Graduate Student Seminar - January 17, 2020</p>
 	</div>
 </div>
@@ -52,7 +52,7 @@ title: Math Interests
 <!-- Supercharacter Theory -->
 <div class="talkBox-labelcontainer">
 	<div class="talkBox-labellefthalf">
-		<h4 style="color: green; margin-top: 7.5%; text-shadow: 1px 1px black;">Supercharacter Theories of Pattern Groups</h4>
+		<h4>Supercharacter Theories of Pattern Groups</h4>
 		<p style="margin-top: 3%;">Lie Theory Seminar - March 3, 2020</p>
 	</div>
 	<div class="talkBox-labelrighthalf">
