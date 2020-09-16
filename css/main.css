@@ -13,14 +13,16 @@ h3 { font-size: 2.3em; }
 h4 { font-size: 1.9em; }
 
 /* Navigation */
-nav ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 5px; list-style: none; font-weight: bold; border-bottom: 2px solid darkblue}
+nav ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 5px; list-style: none; font-weight: bold; border-bottom: 2px solid darkblue; }
 nav ul li { display: inline; margin-right: 20px; }
+/*.navbar { position: fixed; z-index: 1; }*/
 
 /* Footer */
 footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 5px; list-style: none; font-weight: bold; }
 footer ul li { display: inline; margin-right: 20px; }
 
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
+
 
 /* Background Images */
 /* Container holding the image and the text */
@@ -47,15 +49,7 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 /* Change color of dropdown links on hover */
 .dropdown-content a:hover { color: orange; background-color: #003459; text-decoration: underline; }
 /* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropdown-content { display: block; }
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
-
-
-/* Past Talk Layout */
-.talkBox-container { display: table; width: 100%; }
-.talkBox-lefthalf { background-color: white; position: absolute; left: 0px; width: 50%; height: 65%; }
-.talkBox-righthalf { background-color: white; position: absolute; right: 0px; width: 50%; height: 65%; }
-/*.talkBox-lefthalf { background-color: #ff9e2c; position: absolute; left: 0px; width: 50%; height: 65%; }
-.talkBox-righthalf { background-color: #b6701e; position: absolute; right: 0px; width: 50%; height: 65%; }*/
+.dropdown:hover .dropbtn { background-color: #3e8e41; }
 

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Titles the page's tab -->
+    <title>{{ page.title }}</title>
+
+    <!-- Hyperlink Styles -->
+    <style type="text/css">
+      A:link { COLOR: green; TEXT-DECORATION: none; font-weight: normal; }/*darkblue*/
+      A:visited { COLOR: green; TEXT-DECORATION: none; font-weight: normal; }
+      A:active { COLOR: black; TEXT-DECORATION: none; }
+      A:hover { COLOR: orange; TEXT-DECORATION: none; font-weight: none; }
+    </style>
+
+    <!-- Formatting of Page -->
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+      }
+      .imgbox {
+        display: grid;
+        height: 100%;
+      }
+      .center-fit {
+        max-width: 100%;
+        max-height: 100%;
+        margin: auto;
+      }
+    </style>
+
+    <!-- Page Style -->
+    <link rel="stylesheet" type="text/css" href="/css/talks.css">
+
+  </head>
+
+  <!-- Navigation Bar -->
+  <nav>
+    {% include navigation.html %}
+  </nav>
+
+  <body>
+    <!-- Main content from index -->
+    <main id="content" class="main-content" role="main" style="height:100%; width:100%; text-align:center; margin-left:0px; margin-right:0px;">
+        {{ content }}
+    </main>
+    <br>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+      {% include footer.html %}
+    </footer>
+
+  </body>
+</html>
