@@ -19,7 +19,7 @@ title: Teaching
 <br>
 <h1 align=center style="color:darkblue">Applied Linear Algebra</h1>
 <br>
-This quarter-long course goes over matrices, linear transformations, vector fields, inverse matrices, coordinate systems, characteristic equations, and diagonalization.
+This quarter-long course goes over matrices, linear transformations, vector spaces, inverse matrices, coordinate systems, characteristic equations, and diagonalization.
 <br>
 <br>
 
