@@ -3,8 +3,19 @@ layout: default
 title: Teaching
 ---
 
-<br>
-<h1 align=center>Teaching</h1>
+<div class="bgImage-container">
+	<img src="/pictures/T12.jpg" style="width:100%; height:41;">
+	<div class="bgImage-centered">
+		<br>
+		<div class="blurb" style="color: white">
+			<h1 align=center>Teaching</h1>
+		</div>
+		<br>
+	</div>
+</div>
+
+<!-- <br>
+<h1 align=center>Teaching</h1> -->
 
 <br>
 <div style="border-top: 1px solid #d5d5d5; margin-bottom:15px;">
