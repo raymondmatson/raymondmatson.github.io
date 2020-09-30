@@ -25,7 +25,7 @@ title: Topology Qual Stuff
 <div style="border-top: 1px solid #d5d5d5"></div>
 <br>
 <br>
-<p style="margin-left:50px; margin-right:50px; page-break-after: always;">One of the ways my roommates and I studied for our quals was by presenting an entire year of material to each other in under an hour. Now we had the added benefit (or drawback depending on how you look at it) of somehow all taking different core classes, leaving room for lots of questions throughout our presentations. Below are the detailed notes I made for my topology presentation. If you're studying for a qual I highly encourage you to make your own set of notes and give someone in your cohort a presentation on everything you learned.</p>
+<p style="margin-left:50px; margin-right:50px; page-break-after: always;">One of the ways my roommates and I studied for our quals was by presenting an entire year of material to each other in under an hour. Now we had the added benefit (or drawback depending on how you look at it) of somehow all taking different core classes, leaving room for lots of questions throughout our presentations. Below are the detailed notes I made for my topology presentation. If you're studying for a qual I highly encourage you to make your own set of notes and give someone in your cohort a presentation on everything you've learned.</p>
 <br>
 
 <br>
