@@ -9,17 +9,48 @@ title: Topology Qual Stuff
 	config=TeX-AMS-MML_HTMLorMML">
 </script>
 
-
-
 <br>
 <h1 align=center style="color: darkblue">Topology</h1>
+<br>
+
+
+
+
+
+
+
+
+
+
+<div style="border-top: 1px solid #d5d5d5"></div>
+<br>
+<br>
+<p style="margin-left:50px; margin-right:50px; page-break-after: always;">One of the ways my roommates and I studied for our quals was by presenting an entire year of material to each other in under an hour. Now we had the added benefit (or drawback depending on how you look at it) of somehow all taking different core classes, leaving room for lots of questions throughout our presentations. Below are the detailed notes I made for my topology presentation. If you're studying for a qual I highly encourage you to make your own set of notes and give someone in your cohort a presentation on everything you learned.</p>
+<br>
 
 <br>
+<div class=TLDRpdf style="background-color: #f3f3f3; border-top: 1px solid #d5d5d5; border-bottom: 1px solid #d5d5d5">
+	<embed src="/quals/topology/TLDR_Topology.pdf" width="1150px" height="855px" style="background-color: #f3f3f3; margin-top:30px; margin-bottom:30px;"/>
+	<p style="font-size:70%;">Note: I left out a lot of point-set topology in my notes as it's mostly undergrad level and everyone I presented this to had seen it before.</p>
+	<br>
+</div>
 <br>
-<p>Below is a list of certain path connected topological spaces and their corresponding fundamental groups and homologies. Being able to have these in your back pocket will greatly enhance your toolset when going into the quals. However, you should also be able to prove that these fundamental groups and homology groups are what I claim they are.</p>
+
+
+
+
+
+
+
+
+
 
 <br>
-<div class=topExamples style="background-color: #f3f3f3; ">
+<p style="margin-left:50px; margin-right:50px; page-break-after: always;">Below is a list of certain path connected topological spaces and their corresponding fundamental groups and homologies. Being able to have these in your back pocket will greatly enhance your toolset when going into the quals. However, you should also be able to prove that these fundamental groups and homology groups are what I claim they are.</p>
+<br>
+
+<br>
+<div class=topExamples style="background-color: #f3f3f3; border-top: 1px solid #d5d5d5; border-bottom: 1px solid #d5d5d5">
 	<br/>
 	<style>
 		table, th, td { border: 1px solid black; border-collapse: collapse; background: #ffffff; margin-top: 50px; margin-bottom:50px; }
@@ -56,16 +87,16 @@ title: Topology Qual Stuff
 				<td align=center>\(H_k(\vee_{i=1}^{n}S^1) = \begin{cases} \mathbb{Z} & \text{if } k = 0 \\ \mathbb{Z}^n & \text{if } k = 1 \\ 0 & \text{if } k \geq 2 \end{cases} \)</td>
 			</tr>
 			<tr>
-				<td align=center>Klein Bottle</td>
-				<td align=center>\(K_4\)</td>
-				<td align=center></td>
-				<td align=center></td>
-			</tr>
-			<tr>
 				<td align=center>Real Projective Space</td>
 				<td align=center>\(\mathbb{R}P^{n}\)</td>
 				<td align=center>\(\pi_1(\mathbb{R}P^{n}) = \begin{cases} \mathbb{Z} & \text{if } n = 1 \\ \mathbb{Z}/2\mathbb{Z} & \text{if } n > 1 \end{cases} \)</td>
 				<td align=center>\(H_k(\mathbb{R}P^{n}) = \begin{cases} \mathbb{Z} & \text{if } k = 0, n \text{ odd} \\ \mathbb{Z}/2\mathbb{Z} & \text{if } 0 < k < n \text{ odd} \\ 0 & \text{else } \end{cases} \)</td>
+			</tr>
+			<tr>
+				<td align=center>Klein Bottle</td>
+				<td align=center>\(K_4\)</td>
+				<td align=center>\(\pi_1(S_2)= < a,b \mid aba^{-1}b >\)</td>
+				<td align=center>\(H_k(K_4) = \begin{cases} \mathbb{Z} & \text{if } n = 0 \\ \mathbb{Z} \oplus \mathbb{Z}/2\mathbb{Z} & \text{if } n = 1 \\ 0 & \text{if } n \geq 2 \end{cases} \)</td>
 			</tr>
 			<tr>
 				<td align=center>Torus</td>
