@@ -22,6 +22,7 @@ title: Teaching
 	<h4 style="margin-top:35px; margin-bottom:15px; color: #383838">Course Links</h4>
 </div>
 
+<p>Math 5: <a href="/teaching/5">Precalculus</a></p>
 <p>Math 7B: <a href="/teaching/7b">Calculus for Life Science</a></p>
 <p>Math 31: <a href="/teaching/31">Applied Linear Algebra</a></p>
 
@@ -30,7 +31,14 @@ title: Teaching
 <div style="border-top: 1px solid #d5d5d5; margin-bottom:15px;">
 	<div style="display:inline-block">
 		<h4 style="margin-top:25px; margin-bottom:15px; color: #383838">Past Classes and Discussions (Chronologically)</h4>
-		<ul style="display: inline-block; text-align: left; margin-left: 50px; list-style-type:none;">
+		<ul style="display: inline-block; text-align: center; margin-left: 50px; list-style-type:none;">
+			<br>
+			<h1 style="font-size: 1.2em; text-align: center; margin-top:10px; margin-bottom:10px; color: #05426c"><u>Winter 2021</u></h1>
+			<li style="color: #606060">Math 4 - Introduction to College Mathematics for Business and the Social Sciences</li>
+			<br>
+			<h1 style="font-size: 1.2em; text-align: center; margin-top:10px; margin-bottom:10px; color: #05426c"><u>Fall 2020</u></h1>
+			<li style="color: #606060">Math 31 - Applied Linear Algebra</li>
+			<li style="color: #606060">Math 5 - Precalculus</li>
 			<br>
 			<h1 style="font-size: 1.2em; text-align: center; margin-top:10px; margin-bottom:10px; color: #05426c"><u>Spring 2020</u></h1>
 			<li style="color: #606060">Math 31 - Applied Linear Algebra</li>

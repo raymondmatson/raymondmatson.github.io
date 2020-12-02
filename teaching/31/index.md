@@ -32,50 +32,14 @@ This quarter-long course goes over matrices, linear transformations, vector spac
 		th, td { padding: 10px; }
 	</style>
 	<div align=center>
-		<table style="width:50%">
+		<table style="width: 50%; table-layout: fixed;">
 			<tr>
 				<th>Worksheets:</th>
 				<th>Solutions:</th>
 			</tr>
 			<tr>
-				<td align=center>Week 1 Worksheet</td>
-				<td align=center>Week 1 Solutions</td>
-			</tr>
-			<tr>
-				<td align=center>Week 2 Worksheet</td>
-				<td align=center>Week 2 Solutions</td>
-			</tr>
-			<tr>
-				<td align=center>Week 3 Worksheet</td>
-				<td align=center>Week 3 Solutions</td>
-			</tr>
-			<tr>
-				<td align=center>Week 4 Worksheet</td>
-				<td align=center>Week 4 Solutions</td>
-			</tr>
-			<tr>
-				<td align=center>Week 5 Worksheet</td>
-				<td align=center>Week 5 Solutions</td>
-			</tr>
-			<tr>
-				<td align=center>Week 6 Worksheet</td>
-				<td align=center>Week 6 Solutions</td>
-			</tr>
-			<tr>
-				<td align=center>Week 7 Worksheet</td>
-				<td align=center>Week 7 Solutions</td>
-			</tr>
-			<tr>
-				<td align=center>Week 8 Worksheet</td>
-				<td align=center>Week 8 Solutions</td>
-			</tr>
-			<tr>
-				<td align=center>Week 9 Worksheet</td>
-				<td align=center>Week 9 Solutions</td>
-			</tr>
-			<tr>
-				<td align=center>Week 10 Worksheet</td>
-				<td align=center>Week 10 Solutions</td>
+				<td align=center><a href="/teaching/31/Math31_Final_Study_Guide.pdf">Final Study Guide</a></td>
+				<td align=center>Study Guide Solutions</td>
 			</tr>
 		</table>
 	</div>
