@@ -95,20 +95,20 @@ title: Topology Qual Stuff
 			<tr>
 				<td align=center>Klein Bottle</td>
 				<td align=center>\(K_4\)</td>
-				<td align=center>\(\pi_1(S_2)= < a,b \mid aba^{-1}b >\)</td>
+				<td align=center>\(\pi_1(K_4)= < a,b \mid aba^{-1}b >\)</td>
 				<td align=center>\(H_k(K_4) = \begin{cases} \mathbb{Z} & \text{if } n = 0 \\ \mathbb{Z} \oplus \mathbb{Z}/2\mathbb{Z} & \text{if } n = 1 \\ 0 & \text{if } n \geq 2 \end{cases} \)</td>
 			</tr>
 			<tr>
 				<td align=center>Torus</td>
 				<td align=center>\(T^2\)</td>
 				<td align=center>\(\pi_1(T^2) = \mathbb{Z}^2 \)</td>
-				<td align=center>\(H_k(S_g) = \begin{cases} \mathbb{Z} & \text{if } n = 0 \\ \mathbb{Z}^{2} & \text{if } n = 1 \\ \mathbb{Z} & \text{if } n = 2 \\ 0 & \text{if } n \geq 3 \end{cases} \)</td>
+				<td align=center>\(H_k(T^2) = \begin{cases} \mathbb{Z} & \text{if } n = 0 \\ \mathbb{Z}^{2} & \text{if } n = 1 \\ \mathbb{Z} & \text{if } n = 2 \\ 0 & \text{if } n \geq 3 \end{cases} \)</td>
 			</tr>
 			<tr>
 				<td align=center>Genus 2 Surface</td>
 				<td align=center>\(S_2\)</td>
 				<td align=center>\(\pi_1(S_2)= < a,b,c,d \mid aba^{-1}b^{-1}cdc^{-1}d^{-1} >\)</td>
-				<td align=center>\(H_k(S_g) = \begin{cases} \mathbb{Z} & \text{if } n = 0 \\ \mathbb{Z}^{4} & \text{if } n = 1 \\ \mathbb{Z} & \text{if } n = 2 \\ 0 & \text{if } n \geq 3 \end{cases} \)</td>
+				<td align=center>\(H_k(S_2) = \begin{cases} \mathbb{Z} & \text{if } n = 0 \\ \mathbb{Z}^{4} & \text{if } n = 1 \\ \mathbb{Z} & \text{if } n = 2 \\ 0 & \text{if } n \geq 3 \end{cases} \)</td>
 			</tr>
 			<tr>
 				<td align=center>Genus g Surface</td>
