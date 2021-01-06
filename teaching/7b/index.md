@@ -10,9 +10,8 @@ title: Teaching
 <br>
 <h1 align=center style="color:darkblue">Calculus for Life Science</h1>
 <br>
-This is a quarter-long course where we learn about the fundamental theorem of calculus, different integration techniques, and solving some basic differential equations.
-This course follows Math 7A, which goes over derivatives.
-<br>
+<p style="margin-left:10px; margin-right:50px;">This is a quarter-long course where we learn about the fundamental theorem of calculus, different integration techniques, and solving some basic differential equations.
+This course follows Math 7A, which goes over derivatives.</p>
 <br>
 
  

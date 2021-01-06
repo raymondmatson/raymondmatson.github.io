@@ -11,8 +11,7 @@ title: Teaching
 <br>
 <h1 align=center style="color:darkblue">Precalculus</h1>
 <br>
-In this course we study inequalities, absolute values, functions, graphing, logarithms, trigonometry, roots of polynomials, counting, vectors, and many other mathematical concepts.
-<br>
+<p style="margin-left:10px; margin-right:50px;">In this course we study inequalities, absolute values, functions, graphing, logarithms, trigonometry, roots of polynomials, counting, vectors, and many other mathematical concepts.</p>
 <br>
 
 
