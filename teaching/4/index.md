@@ -35,6 +35,10 @@ title: Teaching
 				<td align=center><a href="/teaching/4/Discussion_1.pdf">Discussion 1 - Jan 5</a></td>
 				<td align=center><a href="/teaching/4/Discussion_1.pdf">Discussion 1 - Jan 5</a></td>
 			</tr>
+			<tr>
+				<td align=center><a href="/teaching/4/Discussion_2.pdf">Discussion 2 - Jan 7</a></td>
+				<td align=center><a href="/teaching/4/Discussion_2.pdf">Discussion 2 - Jan 7</a></td>
+			</tr>
 		</table>
 	</div>
 	<br>
