@@ -39,6 +39,14 @@ title: Teaching
 				<td align=center><a href="/teaching/4/Discussion_2.pdf">Discussion 2 - Jan 7</a></td>
 				<td align=center><a href="/teaching/4/Discussion_2.pdf">Discussion 2 - Jan 7</a></td>
 			</tr>
+			<tr>
+				<td align=center><a href="/teaching/4/Discussion_3.pdf">Discussion 3 - Jan 12</a></td>
+				<td align=center><a href="/teaching/4/Discussion_3.pdf">Discussion 3 - Jan 12</a></td>
+			</tr>
+			<tr>
+				<td align=center><a href="/teaching/4/Discussion_4.pdf">Discussion 4 - Jan 14</a></td>
+				<td align=center><a href="/teaching/4/Discussion_4.pdf">Discussion 4 - Jan 14</a></td>
+			</tr>
 		</table>
 	</div>
 	<br>
