@@ -9,7 +9,7 @@ title: Teaching
 -->
 
 <br>
-<h1 align=center style="color:darkblue">Precalculus for Business and Social Sciences</h1>
+<h1 align=center style="color:darkblue">Intro to College Math for Business and Social Sciences</h1>
 <br>
 <p style="margin-left:10px; margin-right:50px;">In this quarter-long course we study functions and their graphs, including linear and polynomial functions, zeroes, and inverse functions, as well as exponential and logarithmic functions. We will also cover elementary probability and applications to business and social sciences.</p>
 <br>
@@ -23,30 +23,16 @@ title: Teaching
 		th, td { padding: 10px; }
 	</style>
 	<div align=center>
-		<br>
-		<br>
+		<br><br>
 		<h2>Discussion Notes</h2>
-		<table style="width: 50%; table-layout: fixed;">
-			<tr>
-				<th>Section 2:</th>
-				<th>Section 11:</th>
-			</tr>
-			<tr>
-				<td align=center><a href="/teaching/4/Discussion_1.pdf">Discussion 1 - Jan 5</a></td>
-				<td align=center><a href="/teaching/4/Discussion_1.pdf">Discussion 1 - Jan 5</a></td>
-			</tr>
-			<tr>
-				<td align=center><a href="/teaching/4/Discussion_2.pdf">Discussion 2 - Jan 7</a></td>
-				<td align=center><a href="/teaching/4/Discussion_2.pdf">Discussion 2 - Jan 7</a></td>
-			</tr>
-			<tr>
-				<td align=center><a href="/teaching/4/Discussion_3.pdf">Discussion 3 - Jan 12</a></td>
-				<td align=center><a href="/teaching/4/Discussion_3.pdf">Discussion 3 - Jan 12</a></td>
-			</tr>
-			<tr>
-				<td align=center><a href="/teaching/4/Discussion_4.pdf">Discussion 4 - Jan 14</a></td>
-				<td align=center><a href="/teaching/4/Discussion_4.pdf">Discussion 4 - Jan 14</a></td>
-			</tr>
-		</table>
+		<br><br>
+		<ul>
+			<li><a href="/teaching/4/Discussion_1.pdf">Discussion 1 - Jan 5</a></li>
+			<li><a href="/teaching/4/Discussion_2.pdf">Discussion 2 - Jan 7</a></li>
+			<li><a href="/teaching/4/Discussion_3.pdf">Discussion 3 - Jan 12</a></li>
+			<li><a href="/teaching/4/Discussion_4.pdf">Discussion 4 - Jan 14</a></li>
+			<li><a href="/teaching/4/Discussion_5.pdf">Discussion 5 - Jan 21</a></li>
+		</ul>
 	</div>
 	<br>
+</div>
