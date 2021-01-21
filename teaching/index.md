@@ -22,7 +22,7 @@ title: Teaching
 	<h4 style="margin-top:35px; margin-bottom:15px; color: #383838">Course Links</h4>
 </div>
 
-<p>Math 4: <a href="/teaching/4">Precalculus for Business and Social Sciences</a></p>
+<p>Math 4: <a href="/teaching/4">Intro to College Math</a></p>
 <p>Math 5: <a href="/teaching/5">Precalculus</a></p>
 <p>Math 7B: <a href="/teaching/7b">Calculus for Life Science</a></p>
 <p>Math 31: <a href="/teaching/31">Applied Linear Algebra</a></p>
