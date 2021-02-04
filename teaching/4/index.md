@@ -59,6 +59,7 @@ title: Teaching
 			<tr>
 				<td align=center>
 					<li><a href="/teaching/4/Discussion_6.pdf">Discussion 6 - Feb 2</a></li>
+					<li><a href="/teaching/4/Discussion_7.pdf">Discussion 7 - Feb 4</a></li>
 				</td>
 			</tr>
 		</table>
