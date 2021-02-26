@@ -70,6 +70,14 @@ title: Teaching
 					<li><a href="/teaching/4/Discussion_8.pdf">Discussion 8 - Feb 16</a></li>
 				</td>
 			</tr>
+			<tr>
+				<th>Week 8</th>
+			</tr>
+			<tr>
+				<td align=center>
+					<li><a href="/teaching/4/Discussion_9.pdf">Discussion 9 - Feb 25</a></li>
+				</td>
+			</tr>
 		</table>
 	</div>
 	<br>
