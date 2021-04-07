@@ -3,9 +3,10 @@ layout: default
 title: Teaching
 ---
 
+<div class="bgImage-container" style="width:100%; height:1024px; overflow:hidden">
+	<img src="/pictures/banner7b.jpg" style="width:100%; height:100%;">
+</div>
 
-
-<img src="/pictures/banner7b.jpg" style="width:100%; height:100%;">
 
 <br>
 <h1 align=center style="color:darkblue">Calculus for Life Science</h1>

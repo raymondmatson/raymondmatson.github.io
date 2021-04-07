@@ -4,8 +4,9 @@ title: Teaching
 ---
 
 
-
-<img src="/pictures/banner31.jpg" style="width:100%; height:100%;">
+<div class="bgImage-container" style="width:100%; height:1024px; overflow:hidden">
+	<img src="/pictures/banner31.jpg" style="width:100%; height:100%;">
+</div>
 
 <!-- <style>
 	h1{
