@@ -91,7 +91,7 @@ title: Math Interests
 <!-- Content -->
 <div class="talkBox-contentcontainer">
 	<div class="talkBox-lefthalf">
-		<img src="/pictures/ML.jpg" style="width:100%; height:100%; display: inline-block;">
+		<img src="/pictures/ML.png" style="width:100%; height:100%; display: inline-block;">
 	</div>
 	<div class="talkBox-righthalf">
 		<iframe src="/math-interests/Intro_To_ML_And_NN.pdf" style="width:100%; height:100%;"></iframe>
