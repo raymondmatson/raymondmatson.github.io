@@ -75,6 +75,31 @@ title: Math Interests
 
 
 
+<!-- An Introduction to Machine Learning and Neural Networks -->
+<div class="talkBox-labelcontainer">
+	<div class="talkBox-labellefthalf">
+		<button type='button' onclick="toggleAbstract('abstract3')" style="color: green; margin-top: 3%;">Abstract</button><!-- Make sure that the function takes in the id from the abstract -->
+		<p id='abstract3' style="font-size: 20px; display: none; overflow: auto; width: auto; height: 95px; margin-top: 3%; border: 1px solid darkblue; box-shadow: 0 0 3px 3px black; background: white">
+			Artificial intelligence, machine learning, neural networks, deep learning -- so many buzzwords! But what do they all mean?! When I search online for answers (and not just on math stack exchange) I often find that the majority of explanations either give you a bunch of deep theory without any realistic applications or it's all about the code and fails to provide any understanding. In this talk I'll attempt to give a fairly basic introduction to ML and neural nets that lies somewhere in between, and probably somehow manage to give you neither application nor theory.
+		</p>
+	</div>
+	<div class="talkBox-labelrighthalf">
+		<h4>Intro to Machine Learning and Neural Networks</h4>
+		<p style="margin-top: 3%;">Graduate Student Seminar - April 2, 2021</p>
+	</div>
+</div>
+<!-- Content -->
+<div class="talkBox-contentcontainer">
+	<div class="talkBox-lefthalf">
+		<img src="/pictures/ML.jpg" style="width:100%; height:100%; display: inline-block;">
+	</div>
+	<div class="talkBox-righthalf">
+		<iframe src="/math-interests/Intro_To_ML_And_NN.pdf" style="width:100%; height:100%;"></iframe>
+	</div>
+</div>
+<br>
+
+
 
 
 
