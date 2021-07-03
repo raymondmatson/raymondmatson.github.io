@@ -8,6 +8,9 @@ title: Teaching
 	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?
 	config=TeX-AMS-MML_HTMLorMML">
 </script>
+<!-- <script type="text/javascript" async
+	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=default">
+</script> -->
 <script>
 	function showDiv(myVar) {
 		var x = document.getElementById(myVar);
@@ -26,10 +29,9 @@ title: Teaching
 <br>
 <h1 align=center style="color:darkblue">Fundamental Exercises in Algebra</h1>
 <br>
-<br>
 
 
-<br>
+
 <div style="background-color: #f3f3f3; ">
 	<br/>
 	<style>
@@ -91,6 +93,122 @@ title: Teaching
 				<li>Recall what it means for a group to be <i>nilpotent</i> and what it means for a group to be <i>solvable</i>. Prove that a nilpotent group is solvable. (See Hungerford Chapter II, Section 7, Exercises 3 and 4 for an different characterizations of solvability and nilpotency that make this proof easier.)</li><br>
 				<li>Prove that every subgroup and every homomorphic image of a solvable group is solvable.</li><br>
 				<li>If \(N\) is normal in \(G\) and both \(N\) and \(G/N\) are solvable, prove that \(G\) is solvable too.</li><br>
+			</ol>
+			<br>
+			<br>
+		</div>
+		<input type="button" name="answer" value="Rings" onclick="showDiv('AlgRings')" />
+		<div id="AlgRings" align=left style="display:none; margin-left:40px;" class="answer_list" >
+			<h3>Ring Theory</h3>
+			<br>
+			<ol style="list-style-position: inside; margin-left:30px;">
+				<li>Prove that a finite integral domain is in fact a field.</li><br>
+				<li>Recall what it means for an element of a ring to be <i>nilpotent</i>. For a commutative unital ring \(R\), prove that the set of nilpotent elements forms an ideal.</li><br>
+				<li>Prove that if \(R\) is commutative and both \(a\) and \(b\) in \(R\) are nilpotent, the their sum \(a + b\) is nilpotent. Why do we need \(R\) to be commutative?</li><br>
+				<li>What is an example of an integral domain \(R\) and ideals \(I\) and \(J\) such that \(IJ \neq I \cap J\)?</li><br>
+				<li>In a commutative unital ring, prove that maximal ideas are prime. Prove that the converse is true if your ring is a PID.</li><br>
+				<li>In the category of commutative unital rings, give an example of a
+					<ol type="a" style="list-style-position: inside; margin-left:30px;">
+						<li>Ring that is not an Integral Domain.</li>
+						<li>Integral Domain that is not a GCD Domain.</li>
+						<li>Integral Domain that is not a UFD. (Bonus points if your example is a GCD Domain.)</li>
+						<li>UFD that is not a PID.</li>
+						<li>PID that is not a Euclidian Domain.</li>
+						<li>Euclidean Domain that is not a Field.</li>
+					</ol>
+				</li><br>
+				<li>For a commutative unital ring \(R\), an ideal \(M\) is maximal if and only if for each \(r \in R\setminus M\) there is some \(s \in R\) such that \(1 − rs \in M\).</li><br>
+				<li>Recall the definition of an <i>idempotent</i> element of a ring and of a <i>central element</i> of a ring. Two elements \(a\) and \(b\) of a ring are <i>orthogonal</i> if \(ab = 0\). If \(R\) is a unital ring with idempotent element \(e\),
+					<ol type="a" style="list-style-position: inside; margin-left:30px;">
+						<li>then the element \(1-e\) is also idempotent,</li>
+						<li>and if \(e\) is a central element of \(R\), then \(eR\) and \((1−e)R\) are ideals such that \(R = eR \times (1-e)R\).</li>
+						<li>More generally, there are ideals \(\{J_i\}_{i \in 1, \cdots, n}\) of \(R\) such that \(R\) can be written as an <i>internal</i> direct sum of the \(J_i\), i.e. \(R = J_1 \oplus \cdots \oplus J_n\), if and only if \(R\) contains orthogonal central idempotents \(\{e_i\}_{i \in 1, \cdots, n}\) such that \(e_1 + \cdots + e_n = 1\) and \(J_i = e_i R\) for \(i \in \{1,…,n\}\).
+						This is called the Peirce decomposition of a ring.</li>
+					</ol>
+				</li><br>
+				<li>Recall the definition of a <i>local ring</i>. Prove that a commutative unital ring \(R\) is local if and only if for all \(a,b \in R\) we have that \(a + b = 1\) implies that either \(a\) or \(b\) is a unit.</li><br>
+				<li>Prove that \(R\) is local if every non-unit of \(R\) is nilpotent.</li><br>
+				<li>For a unital ring \(R\) of characteristic \(p\), let \(a\) be a nilpotent element of \(R\). Prove that \(a + 1\) is unipotent (that some power of \(a + 1\) equals \(1\)).</li><br>
+				<li>What’s an example of an integral domain \(R\) with non-maximal ideal \(I\) such that \(char R = 0\) but \(char R/I \neq 0\)?</li><br>
+				<li>For a commutative unital ring \(R\), suppose that \(f = a_nx^n + a_{n−1}x^{n−1} + \cdots + a_0\) is a zero divisor in \(R[x]\). Prove that there exists some \(b \in R\) such that \(b a_n = b a_{n-1}  = \cdots = b a_0 = 0\).</li><br>
+				<li>For a commutative unital ring \(R\) and polynomial \(f = a_nx^n + a_{n−1}x^{n−1} + \cdots + a_0 \in R[x]\), \(f\) is a unit in \(R[x]\) if and only if \(a_0\) is a unit in \(R\) and \(a_1, \cdots, a_n\) are nilpotent.</li><br>
+				<li>For indeterminates \(x\) and \(y\) and a field \(k\), prove that \((x,y)\) is not a principal ideal of \(k[x,y]\).</li><br>
+			</ol>
+			<br>
+			<br>
+		</div>
+		<input type="button" name="answer" value="Commutative Algebra" onclick="showDiv('AlgComm')" />
+		<div id="AlgComm" align=left style="display:none; margin-left:40px;" class="answer_list" >
+			<h3>Commutative Algebra</h3>
+			<br>
+			<ol style="list-style-position: inside; margin-left:30px;">
+				<li>Prove that these three characterizations of \(\text{Rad}(I)\), the <i>radical</i> of an ideal \(I\) of a commutative unital ring \(R\), are equivalent. The first one is the usual definition.
+					<ol type="a" style="list-style-position: inside; margin-left:30px;">
+						<li>\(\text{Rad}(I) = \{r \in R : r^n \in I, n \in \mathbb{N}\}\)</li>
+						<li>\(\text{Rad}(I)\) is the intersection of all prime ideals of \(R\) that contain \(I\).</li>
+						<li>\(\text{Rad}(I)\) is the pre-image of the ideal of nilpotent elements in \(R/I\).</li>
+					</ol>
+				It would be a good idea to prove that \(\text{Rad}(I)\) is an honest ideal of \(R\) directly from the first of these characterizations.
+				</li><br>
+				<li>For a multiplicative subset \(S\) of a commutative unital ring \(R\), and an ideal \(I\) of \(R\), prove that \(S^{-1} \text{Rad}(I) = \text{Rad}(S^{-1}I)\).</li><br>
+				<li>What’s an example of a Noetherian integral domain that is not a PID?</li><br>
+				<li>For a commutative unital ring \(R\), let \(I\) be a <i>primary</i> ideal of \(R\), which means that for \(a,b \in R\) such that \(ab \in I\), either \(a \in I\) or \(b^n \in I\) for some \(n \in N\). Let \(S\) be a multiplicative subset of \(R\) such that \(S \cap I = \emptyset\). Prove that \(S^{-1}I\) is a primary ideal of \(S^{−1}R\).</li><br>
+				<li>For a commutative unital ring \(R\) and proper ideal \(I\) of \(R\), prove that \(I\) is a primary ideal if and only if the zero divisors in \(R/I\) are all nilpotent.</li><br>
+				<li>For a commutative unital ring \(R\), let \(S\) be a saturated multiplicative subset \(R\), so for \(x,y \in R\) we have that if \(xy \in S\) then \(x,y \in S\). Prove that \(R \setminus S\) is a union of prime ideals of \(R\)</li><br>
+				<li>For a commutative unital ring \(R\), prove that the set of zero divisors of \(R\) is a union of prime ideals.</li><br>
+			</ol>
+			<br>
+			<br>
+		</div>
+		<input type="button" name="answer" value="Modules" onclick="showDiv('AlgMods')" />
+		<div id="AlgMods" align=left style="display:none; margin-left:40px;" class="answer_list" >
+			<h3>Modules</h3>
+			<br>
+			<ol style="list-style-position: inside; margin-left:30px;">
+				<li>For unital ring \(R\), recall what it means for a unitary \(R\)-module to be <i>simple</i>. Prove that a simple \(R\)-module \(M\) must be cyclic, and that the ring \(\text{End}_R(M)\) is a division ring. What about the converse? Is it true that if \(\text{End}_R(M)\) is a division ring then \(M\) must be simple?</li><br>
+				<li>For a commutative unital ring \(R\) and left \(R\)-modules \(M\) and \(N\), does \(\text{Hom}_R(M,N)\) have any sort of \(R\)-module structure? Is it necessary to assume that \(R\) is commutative? What if \(M\) is a right \(R\)-module instead? (<a href="https://math.stackexchange.com/questions/637807/why-is-operatornamehomm-n-not-necessarily-an-r-module">MathSE</a>)</li><br>
+				<li>For a ring \(R\), consider the commutative diagram
+				$$\require{AMScd} \begin{CD}
+				0 @>>> A @>{f_1}>> B @>{f_2}>> C @>>> 0\\
+				@. @. @V{\phi_2}VV @. @.\\
+				0 @>>> X @>{g_1}>> Y @>{g_2}>> Z @>>> 0\\
+				\end{CD}$$
+				in the category of \(R\)-modules such that the top and bottom rows are exact. Suppose that there is a some map \(\phi_1 \in \text{Hom}_R(A,X)\) such that \(\phi_2 \circ f_1 = g_1 \circ \phi_1\). Prove that there exists some map \(\phi_3 \in \text{Hom}_R(C,Z)\) such that \(\phi_3 \circ f_2 = g_2 \circ \phi_2\).</li><br>
+				<li>Suppose that \(P\) is a projective \(R\)-module, and is the homomorphic image of some \(R\)-module \(M\). Prove that \(P\) is isomorphic to a direct summand of \(M\). What is the analogous fact to this one concerning injective \(R\)-modules?</li><br>
+				<li>For a unital ring \(R\), in the category \(R-\text{Mod}\), a free module is projective.</li><br>
+				<li>More generally than the previous problem, consider the three following adjectives that could describe an \(R\)-module: \(\text{free} \quad \text{projective} \quad \text{torsion-free}\)<br>
+				Which of these properties of an \(R\)-module imply another, and which don't? Provide proofs and counterexamples.</li><br>
+				<li>Prove that a direct sum of \(R\)-modules \(\oplus_{i \in I} P_i\) is projective if and only if each \(P_i\) is projective.</li><br>
+				<li>Prove that \(\mathbb{Q}\) is not a projective \(\mathbb{Z}\)-module. What is an example of a projective \(\mathbb{Z}\)-module?</li><br>
+				<li>Recall the definition of a \(\mathbb{Z}\)-module (abelian group) being <i>divisible</i>. Prove that a unitary \(\mathbb{Z}\)-module is injective if an only if it is divisible.</li><br>
+				<li>Suppose that in the category \(R\)-mod, for any object \(D\) the functor \(\text{Hom}_R(D,−)\) preserves the exactness of the sequence \[0 \to A \to B \to C \to 0.\] Prove that this sequence must split. Prove the converse of this statement too.</li><br>
+				<li>For a unital ring \(R\) and a unitary left \(R\)-module \(M\), write out the details of the left \(R\)-module isomorphism \(M \cong \text{Hom}_R(R,M)\).</li><br>
+				<li>For a left \(R\)-module \(M\), write down the details of the natural homomorphism of \(R\)-modules \(\theta_M : A \to A^{**}\). Prove that \(\theta_M\) is an isomorphism if \(R\) is unital and \(M\) is free with finite basis over \(R\).</li><br>
+				<li>For a homomorphism of left \(R\)-modules \(f: M \to N\), write down the details of the natural map \(f^∗: M^{∗∗} \to N^{∗∗}\) such that the following diagram commutes:
+					$$ \require{AMScd} \begin{CD}
+					M @>{\theta_M}>> M^{\ast\ast}\\
+					@V{f}VV @VV{f^\ast}V\\
+					N @>{\theta_N}>> N^{\ast\ast}\\
+					\end{CD} $$</li><br>
+				<li>For a unital ring \(R\) and a unitary left \(R\)-module \(M\), write out the details of the left \(R\)-module isomorphism \(R \otimes_R M \cong M\).</li><br>
+				<li>For integers \(m\) and \(n\), write out the details of the \(\mathbb{Z}\)-bimodule isomorphism \(\mathbb{Z}/(m) \otimes_\mathbb{Z} \mathbb{Z}/(n) \cong \mathbb{Z}/(m,n)\). (<a href="https://math.stackexchange.com/questions/72284/proof-of-mathbbz-m-mathbbz-otimes-mathbbz-mathbbz-n-mathbbz">MathSE</a>)</li><br>
+				<li>Let \(S\) be a two-sided ideal of a ring \(R\) and let \(SM\) denote the abelian subgroup of an \(R\)-module \(M\) generated by elements of the form \(sm\) for \(s \in S\) and \(m \in M\). Show that \(SM\) is an honest submodule of \(M\), describe the natural left \(R\)-module structure on \((R/S) \otimes_R M\), and show that \((R/S)\otimes_R M \cong M/SM\) as left \(R\)-modules.</li><br>
+				<li>Suppose that \(A\) and \(A'\) are left \(R\)-modules and \(B\) and \(B'\) are right \(R\)-modules. Take \(f \in Hom(A,A')\) and \(g \in \text{Hom}(B,B')\). Is it necessarily true that \[\ker(f \otimes g) \cong (\ker f \otimes B) + (A \otimes \ker g)?\]</li><br>
+				<li>Give examples of a commutative ring \(R\), of \(R\)-modules \(M\), \(M'\), and \(N\), and of a map \(f \in \text{Hom}(M,M')\) such that
+					<ol type="a" style="list-style-position: inside; margin-left:30px;">
+						<li>\(f\) is injective, but \(1 \otimes f : N \otimes M \to N \otimes M'\) is not injective.</li>
+						<li>\(f\) is surjective, but \(f^∗ :\text{Hom}(N,M) \to \text{Hom}(N,M')\), where \(f^∗(h) = f \circ h\), is not surjective.</li>
+					</ol></li><br>
+				<li>For a ring \(R\) and left \(R\)-modules \(M\) and \(N\), write down the details of the homomorphism of abelian groups \(M^∗ \otimes_R N \to \text{Hom}_R(M,N)\). Prove that this homomorphism is an isomorphism if \(R\) is a field and \(M\) and \(N\) are finite-dimensional vector spaces over \(R\).</li><br>
+				<li>Let \(R\) be an integral domain. For an \(R\)-module \(M\), define \(\tau(M) = \{m \in M : \mathcal{O}_m \neq \emptyset\}\), where \(\mathcal{O}_m\) is the annihilator of \(m\) in \(R\). Prove that \(\tau\) induces a left-exact functor from \(R\)-mod to the category of torsion \(R\)-modules, where \(M \mapsto \tau(M)\) and \(f \mapsto f\mid_{\tau(M)}\). Why do we need the assumption that \(R\) is an integral domain?</li><br>
+				<li>Let \(R\) be a PID, and let \(M\) be a unitary left \(R\)-module. For \(s \in R\) recall the definition of a couple of our favorite submodules of \(M\): \(sM = \{sm : m \in M\}\) and \(M[s] = \{ m \in M : sm = 0 \}\). Let \(p\) be a prime element of \(R\). Additionally, recall the definition of a <i>cyclic</i> \(R\)-module, and let \(N\) be a cyclic \(R\)-module of order \(r \in R\).
+					<ol type="a" style="list-style-position: inside; margin-left:30px;">
+						<li>What is the natural way to define \(M/pM\) as a vector space over \(R/(p)\)?</li>
+						<li>What is the natural way to define \(M[p]\) as a vector space over \(R/(p)\)?</li>
+						<li>Supposing \(s\) is relatively prime to \(r\), prove that \(sN = N\) and \(N[s] = 0\).</li>
+						<li>Suppose \(s\) divides \(r\), so there is some \(k\) such that \(sk = r\). Prove that \(sN \cong R/(k)\) and \(N[s] \cong R/(s)\).</li>
+					</ol>
+				</li><br>
 			</ol>
 			<br>
 			<br>
