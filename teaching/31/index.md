@@ -4,9 +4,19 @@ title: Teaching
 ---
 
 
-<div class="bgImage-container" style="width:100%; height:1024px; overflow:hidden">
+<header class="hero hero_big">
+	<div style="background-image:url(/pictures/banner31.jpg)" class="hero__bg">
+	</div>
+	<div class="overlay">
+		<div class="IJContainer">
+			<h1 style="color:white" class="hero__title">Applied Linear Algebra</h1>
+		</div>
+	</div>
+</header>
+
+<!-- <div class="bgImage-container" style="width:100%; height:1024px; overflow:hidden">
 	<img src="/pictures/banner31.jpg" style="width:100%; height:100%;">
-</div>
+</div> -->
 
 <!-- <style>
 	h1{
@@ -18,7 +28,7 @@ title: Teaching
 </style> -->
 
 <br>
-<h1 align=center style="color:darkblue">Applied Linear Algebra</h1>
+<h1 align=center style="color:darkblue">Math 31</h1>
 <br>
 <p style="margin-left:10px; margin-right:50px;">This quarter-long course goes over matrices, linear transformations, vector spaces, inverse matrices, coordinate systems, characteristic equations, and diagonalization.</p>
 <br>

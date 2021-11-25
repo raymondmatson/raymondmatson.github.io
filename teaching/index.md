@@ -3,7 +3,17 @@ layout: default
 title: Teaching
 ---
 
-<div class="bgImage-container">
+
+<header class="hero hero_big">
+	<div style="background-image:url(/pictures/T12.jpg)" class="hero__bg">
+	</div>
+	<div class="overlay" style="background-color: rgba(43, 43, 43, 0.35);">
+		<div class="IJContainer">
+			<h1 style="color:white" class="hero__title">Teaching</h1>
+		</div>
+	</div>
+</header>
+<!-- <div class="bgImage-container">
 	<img src="/pictures/T12.jpg" style="width:100%; height:41;">
 	<div class="bgImage-centered">
 		<br>
@@ -12,7 +22,7 @@ title: Teaching
 		</div>
 		<br>
 	</div>
-</div>
+</div> -->
 
 <!-- <br>
 <h1 align=center>Teaching</h1> -->

@@ -3,13 +3,20 @@ layout: default
 title: Teaching
 ---
 
-<div class="bgImage-container" style="width:100%; height:1024px; overflow:hidden">
-	<img src="/pictures/banner7b.jpg" style="width:100%; height:100%;">
-</div>
+
+<header class="hero hero_big">
+	<div style="background-image:url(/pictures/banner7b.jpg)" class="hero__bg">
+	</div>
+	<div class="overlay">
+		<div class="IJContainer">
+			<h1 style="color:white" class="hero__title">Calculus for Life Science</h1>
+		</div>
+	</div>
+</header>
 
 
 <br>
-<h1 align=center style="color:darkblue">Calculus for Life Science</h1>
+<h1 align=center style="color:darkblue">Math 7B</h1>
 <br>
 <p style="margin-left:10px; margin-right:50px;">This is a quarter-long course where we learn about the fundamental theorem of calculus, different integration techniques, and solving some basic differential equations.
 This course follows Math 7A, which goes over derivatives.</p>

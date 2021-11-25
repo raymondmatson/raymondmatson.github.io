@@ -5,9 +5,16 @@ title: Teaching
 
 
 <!--
-<img src="/pictures/banner31.jpg" style="width:100%; height:100%;">
+<header class="hero hero_big">
+	<div style="background-image:url(/pictures/banner31.jpg)" class="hero__bg">
+	</div>
+	<div class="overlay">
+		<div class="IJContainer">
+			<h1 style="color:white" class="hero__title">Applied Linear Algebra</h1>
+		</div>
+	</div>
+</header>
 -->
-
 <br>
 <h1 align=center style="color:darkblue">Introduction to College Math for Business and Social Sciences</h1>
 <br>
