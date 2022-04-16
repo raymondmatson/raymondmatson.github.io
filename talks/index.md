@@ -1,6 +1,6 @@
 ---
 layout: talks
-title: Math Interests
+title: Talks
 ---
 
 <script type="text/javascript" async 
@@ -17,6 +17,65 @@ title: Math Interests
 <div style="background-color: #0084bd;">
 	<br>
 	<h1 align=center style="color:white">Past Talks</h1>
+	<br>
+</div>
+<br>
+
+
+
+<br>
+<h3><u>2021</u></h3>
+<h5>From Knot Invariance to Double Affine Hecke Algebras</h5>
+<p style="font-size: 1.3em;">UCR Graduate Student Representation Theory Seminar</p>
+<p style="font-size: 1.1em;">April 21, 2022</p>
+<br>
+<h5>Stated Skein Theory</h5>
+<p style="font-size: 1.3em;">UCR Gradute Student Seminar</p>
+<p style="font-size: 1.1em;">April 15, 2022</p>
+<br>
+<h5>Quantum Groups and Skein Theory</h5>
+<p style="font-size: 1.3em;">UCR Graduate Student Representation Theory Seminar</p>
+<p style="font-size: 1.1em;">March 3, 2022</p>
+<br>
+<h5>Heegaard Splittings and Dehn Surgery</h5>
+<p style="font-size: 1.3em;">UCR Graduate Student Seminar</p>
+<p style="font-size: 1.1em;">February 25, 2022</p>
+<br>
+<h5>Heegaard Splittings and Dehn Surgery</h5>
+<p style="font-size: 1.3em;">UCR Topology Seminar</p>
+<p style="font-size: 1.1em;">February 23, 2022</p>
+<br>
+<h5>Representation Theory in the BGG Category O</h5>
+<p style="font-size: 1.3em;">UCR Lie Theory Seminar</p>
+<p style="font-size: 1.1em;">January 25, 2022</p>
+<br>
+<br>
+<h3><u>2021</u></h3>
+<h5>An Introduction to Supercharacter Theory</h5>
+<p style="font-size: 1.3em;">UCR Graduate Student Representation Theory Seminar</p>
+<p style="font-size: 1.1em;">October 28, 2021</p>
+<br>
+<h5>Intro to Machine Learning and Neural Networks</h5>
+<p style="font-size: 1.3em;">UCR Graduate Student Seminar</p>
+<p style="font-size: 1.1em;">April 2, 2021</p>
+<br>
+<br>
+<h3><u>2020</u></h3>
+<h5>Supercharacter Theories of Pattern Groups</h5>
+<p style="font-size: 1.3em;">UCR Lie Theory Seminar</p>
+<p style="font-size: 1.1em;">March 3, 2020</p>
+<br>
+<h5>The Game of Cops and Robbers on Graphs</h5>
+<p style="font-size: 1.3em;">UCR Graduate Student Seminar</p>
+<p style="font-size: 1.1em;">January 17, 2020</p>
+<br>
+
+
+
+<br>
+<div style="background-color: #0084bd;">
+	<br>
+	<h1 align=center style="color:white">Notes and Slides</h1>
 	<br>
 </div>
 <br>
@@ -42,7 +101,7 @@ title: Math Interests
 		<img src="/pictures/CopsAndRobbers.jpg" style="width:100%; height:100%; display: inline-block;">
 	</div>
 	<div class="talkBox-righthalf">
-		<iframe src="/math-interests/Cops_and_Robbers_Notes.pdf" style="width:100%; height:100%;"></iframe>
+		<iframe src="/talks/Cops_and_Robbers_Notes.pdf" style="width:100%; height:100%;"></iframe>
 	</div>
 </div>
 <br>
@@ -65,7 +124,7 @@ title: Math Interests
 <!-- Content -->
 <div class="talkBox-contentcontainer">
 	<div class="talkBox-lefthalf">
-		<iframe src="/math-interests/An_Introduction_to_Supercharacter_Theory.pdf" style="width:100%; height:100%;"></iframe>
+		<iframe src="/talks/An_Introduction_to_Supercharacter_Theory.pdf" style="width:100%; height:100%;"></iframe>
 	</div>
 	<div class="talkBox-righthalf">
 		<img src="/pictures/supercharacter.png" style="width:100%; height:100%; display: inline-block;">
@@ -94,7 +153,7 @@ title: Math Interests
 		<img src="/pictures/ML.png" style="width:100%; height:100%; display: inline-block;">
 	</div>
 	<div class="talkBox-righthalf">
-		<iframe src="/math-interests/Intro_To_ML_And_NN.pdf" style="width:100%; height:100%;"></iframe>
+		<iframe src="/talks/Intro_To_ML_And_NN.pdf" style="width:100%; height:100%;"></iframe>
 	</div>
 </div>
 <br>
