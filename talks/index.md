@@ -24,7 +24,7 @@ title: Talks
 
 
 <br>
-<h3><u>2021</u></h3>
+<h3><u>2022</u></h3>
 <h5>From Knot Invariants to Double Affine Hecke Algebras</h5>
 <p style="font-size: 1.3em;">UCR Graduate Student Representation Theory Seminar</p>
 <p style="font-size: 1.1em;">April 28, 2022</p>
