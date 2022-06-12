@@ -30,7 +30,7 @@ title: Talks
 <p style="font-size: 1.1em;">April 28, 2022</p>
 <br>
 <h5>Stated Skein Theory</h5>
-<p style="font-size: 1.3em;">UCR Gradute Student Seminar</p>
+<p style="font-size: 1.3em;">UCR Graduate Student Seminar</p>
 <p style="font-size: 1.1em;">April 15, 2022</p>
 <br>
 <h5>Quantum Groups and Skein Theory</h5>
@@ -45,7 +45,7 @@ title: Talks
 <p style="font-size: 1.3em;">UCR Topology Seminar</p>
 <p style="font-size: 1.1em;">February 23, 2022</p>
 <br>
-<h5>Representation Theory in the BGG Category O</h5>
+<h5>Representation Theory in the BGG Category <span class="math inline">\(\mathcal{O}\)</span></h5>
 <p style="font-size: 1.3em;">UCR Lie Theory Seminar</p>
 <p style="font-size: 1.1em;">January 25, 2022</p>
 <br>
