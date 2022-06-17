@@ -23,15 +23,18 @@ title: Teaching
 </script>
 
 
-
-
-
 <br>
-<h1 align=center style="color:darkblue">Fundamental Exercises in Algebra</h1>
+<h1 align=center style="color: darkblue">Algebra</h1>
 <br>
 
 
 
+
+
+
+<div style="border-top: 1px solid #d5d5d5"></div>
+<br>
+<br>
 <div style="background-color: #f3f3f3; ">
 	<br/>
 	<style>
@@ -39,9 +42,9 @@ title: Teaching
 		th, td { padding: 10px; }
 	</style>
 	<div align=center style="margin-left:10px; margin-right:50px;">
-		<p><u>Fundamental Exercises in Algebra</u>:</p><br>
+		<p><u>Standard Exercises in Algebra</u>:</p><br>
 		<div align=left>
-			<p>In studying for the Algebra Qualifying Exam, these are some exercises you should really really know. Most of these are either common questions on past qualifying exams or popular homework problems chosen from Hungerford's <i>Algebra</i>.</p>
+			<p>In studying for the Algebra Qualifying Exam, these are some exercises you should really really know. The majority of these are either common questions on past qualifying exams or popular homework problems chosen from Hungerford's <i>Algebra</i>. I'd like to give a huge thank you to <a href="https://org.coloradomesa.edu/~mapierce2/">Mike Pierce</a> for providing me with a majority of these problems</p>
 			<br>
 			<p>Since these exercises are so fundamental, solutions to many of them can be found either in <a href="">John Dusel’s notes</a>, or in <a href="">Kayla Murray’s notes</a>, or somewhere online like <a href="">Math Stack Exchange</a> (MathSE). If you find a solution online, you should send me a link so I can post it here. Otherwise, if you think it’ll help you study, you can type up a solution and send me a PDF to post here. Or better, you can type up your solution on MathSE so that other algebra students can easily find it, add to it, comment on it, etc. The MathSE community is going through a bit of a phase right now, though, so it would be a good idea to read over this <a href="">brief guide to posting on MathSE</a> before writing up your solution there.</p>
 			<br>
@@ -105,6 +108,7 @@ title: Teaching
 				<li>Prove that a finite integral domain is in fact a field.</li><br>
 				<li>Recall what it means for an element of a ring to be <i>nilpotent</i>. For a commutative unital ring \(R\), prove that the set of nilpotent elements forms an ideal.</li><br>
 				<li>Prove that if \(R\) is commutative and both \(a\) and \(b\) in \(R\) are nilpotent, the their sum \(a + b\) is nilpotent. Why do we need \(R\) to be commutative?</li><br>
+				<li>Let \(R\) be a field of characteristic \(p \neq 0\). Show that the Frobenius map (\(r \mapsto r^p\)) is an isomorphism</li><br>
 				<li>What is an example of an integral domain \(R\) and ideals \(I\) and \(J\) such that \(IJ \neq I \cap J\)?</li><br>
 				<li>In a commutative unital ring, prove that maximal ideas are prime. Prove that the converse is true if your ring is a PID.</li><br>
 				<li>In the category of commutative unital rings, give an example of a
@@ -165,6 +169,14 @@ title: Teaching
 			<h3>Modules</h3>
 			<br>
 			<ol style="list-style-position: inside; margin-left:30px;">
+				<li>Recall what it means for arbitrary extension of rings, \(A \subset B\), to be <i>finite</i> and <i>free</i>.
+					<ol type="a" style="list-style-position: inside; margin-left:30px;">
+						<li>Let \(\{b_1, \cdots, b_n\}\) be a free basis for \(A \subset B\). If \(b = a_1b_1 + \cdots + a_nb_n\) for each \(a_i \in A\) and some \(a_s\) is a unit, show one may replace \(b_s\) with \(b\) to obtain another free basis.</li>
+						<li>Show that the natural inclusion \(\mathbb{Q}[x] \hookrightarrow \mathbb{Q}[x,y]/\langle y^3 - x^2 y^2 + 7xy - 11x^{100} \rangle\) is finite and free.</li>
+						<li>Show that \(\mathbb{F}_p[x^p] \subset \mathbb{F}_p[x]\) is finite and free. What's the canonical free basis for this extension?</li>
+						<li>Let \(R = \mathbb{F}_p[x_1, \cdots, x_n]\). Then each extension in \(\cdots \subset R^{p^k} \subset \cdots \subset R^{p^2} \subset R^p \subset R \subset R^{1/p} \subset \cdots\) is finite and free.</li>
+					</ol>
+				</li><br>
 				<li>For unital ring \(R\), recall what it means for a unitary \(R\)-module to be <i>simple</i>. Prove that a simple \(R\)-module \(M\) must be cyclic, and that the ring \(\text{End}_R(M)\) is a division ring. What about the converse? Is it true that if \(\text{End}_R(M)\) is a division ring then \(M\) must be simple?</li><br>
 				<li>For a commutative unital ring \(R\) and left \(R\)-modules \(M\) and \(N\), does \(\text{Hom}_R(M,N)\) have any sort of \(R\)-module structure? Is it necessary to assume that \(R\) is commutative? What if \(M\) is a right \(R\)-module instead? (<a href="https://math.stackexchange.com/questions/637807/why-is-operatornamehomm-n-not-necessarily-an-r-module">MathSE</a>)</li><br>
 				<li>For a ring \(R\), consider the commutative diagram
@@ -213,7 +225,93 @@ title: Teaching
 			<br>
 			<br>
 		</div>
+		<input type="button" name="answer" value="Linear Algebra" onclick="showDiv('AlgLinAlg')" />
+		<div id="AlgLinAlg" align=left style="display:none; margin-left:40px;" class="answer_list" >
+			<h3>Linear Algebra</h3>
+			<br>
+			<ol style="list-style-position: inside; margin-left:30px;">
+				<li>For a division ring \(D\), let \(V_i\) be a finite dimensional vector space over \(D\) for \(i \in \{ 1, \cdots, k\}\). Suppose the sequence \[0 \to V_1 \to V_2 \to \cdots \to V_k \to 0\] is exact. Prove that \(\sum_{i=1}^{k} (-1)^{-i}\text{dim}_D (V_i) = 0\)</li><br>
+				<li>Prove that if \(A\) and \(B\) are invertible matrices over a field \(k\), then \(A + \lambda B\) is invertible for all but finitely many \(\lambda \in k\).</li><br>
+				<li>For the ring of \(n \times n\) matrices over a commutative unital ring \(R\), which we'll denote \(\text{Mat}_n(R)\), recall the definition of the <i>determinant</i> map \(\text{det}: \text{Mat}_n(R) \to R\). For \(A \in \text{Mat}_n(R)\) also recall the definition of the <i>classical adjoint</i> \(A^\alpha\) of \(A\)
+					<ol type="a" style="list-style-position: inside; margin-left:30px;">
+						<li>\(\text{det}(A^\alpha) = \text{det}(A)^{n-1}\)</li>
+						<li>\((A^\alpha)^\alpha = \text{det}(A)^{n-2}A\)</li>
+					</ol>
+				</li><br>
+				<li>If \(R\) is an integral domain and \(A\) is an \(n \times n\) matrix over \(R\), prove that if a system of linear equations \(Ax = 0\) has a nonzero solution then \(\text{det}A = 0\). Is the converse true? What if we drop the assumption that \(R\) is an integral domain?</li><br>
+				<li>What is the companion matrix \(M\) of the polynomial \(f = x^2 - x + 2\) over \(\mathbb{C}\)? Prove that \(f\) is the minimal polynomial of \(M\).</li><br>
+				<li>Suppose that \(\phi\) and \(\psi\) are commuting endomorphisms of a finite dimensional vector space \(E\) over a field \(k\), so \(\phi\psi = \psi\phi\).
+					<ol type="a" style="list-style-position: inside; margin-left:30px;">
+						<li>Prove that if \(k\) is algebraically closed, then \(\phi\) and \(\psi\) have a common eigenvector.</li>
+						<li>Prove that if \(E\) has a basis consisting of eigenvectors of \(\phi\) and \(E\) has a basis consisting of eigenvectors of \(\psi\), then \(E\) has a basis consisting of vectors that are eigenvectors for both \(\phi\) and \(\psi\) simultaneously.</li>
+					</ol>
+				</li><br>
+			</ol>
+			<br>
+			<br>
+		</div>
+		<input type="button" name="answer" value="Galois Theory" onclick="showDiv('AlgGal')" />
+		<div id="AlgGal" align=left style="display:none; margin-left:40px;" class="answer_list" >
+			<h3>Galois Theory</h3>
+			<br>
+			<ol style="list-style-position: inside; margin-left:30px;">
+				<li>Suppose that for an extension field \(F\) over \(K\) and for \(a \in F\), we have that \(b \in F\) is algebraic over \(K(a)\) but transcendental over \(K\). Prove that \(a\) is algebraic over \(K(b)\).</li><br>
+				<li>Suppose that for a field \(F/K\) that \(a \in F\) is algebraic and has odd degree over \(K\). Prove that \(a^2\) is also algebraic and has odd degree over \(K\), and furthermore that \(K(a) = K(a^2)\).</li><br>
+				<li>For a polynomial \(f \in K[x]\), prove that if \(r \in F\) is a root of \(f\) then for any \(\sigma \in \text{Aut}_K(F)\), \(\sigma(r)\) is also a root of \(f\).</li><br>
+				<li>Prove that as extensions of \(\mathbb{Q}\), \(\mathbb{Q}(x)\) is Galois over \(\mathbb{Q}(x^2)\) but not over \(\mathbb{Q}(x^3)\).</li><br>
+				<li>If \(F\) is _______ over \(E\), and \(E\) is _______ over \(K\), is \(F\) necessarily _______ over \(K\)? Answer this question for each of the words "algebraic," "normal," and "separable" in the blanks.</li><br>
+				<li>If \(F\) is _______ over \(K\), and \(E\) is an intermediate extension of \(F\) over \(K\), is \(F\) necessarily _______ over \(E\)? Answer this question for each of the words "algebraic", "normal", and "separable" in the blanks.</li><br>
+				<li>If \(F\) is some (not necessarily Galois) field extension over \(K\) such that \([F:K] = 6\) and \(\text{Aut}_K(F) \cong S_3\), then \(F\) is the splitting field of an irreducible cubic over \(K[x]\).</li><br>
+				<li>Recall the definition of the <i>join</i> of two subgroups \(H \vee G\) (or \(H + G\)). For \(F\) a finite dimensional Galois extension over \(K\) and let \(A\) and \(B\) be intermediate extensions. Prove that
+					<ol type="a" style="list-style-position: inside; margin-left:30px;">
+						<li>\(\text{Aut}_{AB}(F) = \text{Aut}_A(F) \cap \text{Aut}_B(F)\)</li>
+						<li>\(\text{Aut}_{A \cap B}(F) = \text{Aut}_A(F) \vee \text{Aut}_B(F)\)</li>
+					</ol></li><br>
+				<li>For a field \(K\) take \(f \in K[x]\) and let \(n = \text{deg}(f)\). Prove that for a splitting field \(F\) of \(f\) over \(K\) that \([F:K] \leq n!\). Furthermore prove that \([F:K]\) divides \(n!\).</li><br>
+				<li>Let \(F\) be the splitting field of \(f \in K[x]\) over \(K\). Prove that if \(g \in K[x]\) is irreducible and has a root in \(F\), then \(g\) splits into linear factors over \(F\).</li><br>
+				<li>Prove that a finite field cannot be algebraically closed.</li><br>
+				<li>For \(u = \sqrt{2 + \sqrt{2}}\), what is the Galois group of \(\mathbb{Q}(u)\) over \(\mathbb{Q}\)? What are the intermediate fields of the extension \(\mathbb{Q}(u)\) over \(\mathbb{Q}\)?</li><br>
+				<li>Characterize the splitting field and all intermediate fields of the polynomial \((x^2 - 2)(x^2 - 3)(x^2 - 5)\) over \(\mathbb{Q}\). Using this characterization, find a primitive element of the splitting field.</li><br>
+				<li>Characterize the splitting field and all intermediate fields of the polynomial \(x^4 - 3\) over \(\mathbb{Q}\)</li><br>
+				<li>Consider the polynomial \(f = x^3 − x + 1\) in \(\mathbb{F}_3[x]\). Prove that \(f\) is irreducible. Calculate the degree of the splitting field of \(f\) over \(\mathbb{F}_3\) and the cardinality of the splitting field of \(f\).</li><br>
+				<li>Given an example of a finite extension of fields that has infinitely many intermediate fields.</li><br>
+				<li>Let \(u = \sqrt{3 + \sqrt{2}}\). Is \(\mathbb{Q}(u)\) a splitting field of \(u\) over \(\mathbb{Q}\)? (<a href="https://math.stackexchange.com/questions/1817583/is-sqrt7-in-mathbbq-left-sqrt3-sqrt2-right">MathSE</a>)</li><br>
+				<li>Prove that the multiplicative group of units of a finite field must be cyclic, and so is generated by a single element.</li><br>
+				<li>Prove that \(\mathbb{F}_{p^n}\) is the splitting field of \(x^{p^n} - x\) over \(\mathbb{F}_p\).</li><br>
+				<li>Prove that for any positive integer \(n\) there is an irreducible polynomial of degree \(n\) over \(\mathbb{F}_p\).</li><br>
+				<li>Recall the definition of a <i>perfect</i> field. Give an example of an imperfect field, and the prove that every finite field is perfect.</li><br>
+				<li>For \(n > 2\) let \(\zeta_n\) denote a primitive \(n\)th root of unity over \(\mathbb{Q}\). Prove that \[[\mathbb{Q}(\zeta_n + \zeta_n^{-1} : \mathbb{Q})] = \frac{1}{2}\varphi(n)\] where \(\varphi\) is Euler's totient function.</li><br>
+				<li>Suppose that a field \(K\) with characteristic not equal to \(2\) contains an primitive \(n\)th root of unity for some odd integer \(n\). Prove that \(K\) must also contain a primitive \(2n\)th root of unity.</li><br>
+				<li>Prove that the Galois group of the polynomial \(x^n - 1\) over \(\mathbb{Q}\) is abelian. (<a href="https://math.stackexchange.com/questions/721864/prove-that-the-galois-group-of-xn-1-is-abelian-over-the-rationals">MathSE</a>)</li><br>
+			</ol>
+			<br>
+			<br>
+		</div>
 	</div>
+	<br>
 	<br>
 </div>
 
+
+
+
+
+<div style="border-top: 1px solid #d5d5d5"></div>
+<br>
+<br>
+<div align="center">
+	<p>Here is the hierarchy of algebraic objects ranging from semigroups to fields. Each ellipse contains an example of its corresponding object strictly in its respective classification.</p>
+	<p>If you know good examples that you think are worthy and would like to see on this picture please let me know and I'd be happy to include it.</p>
+</div>
+<br>
+
+<div>
+	<img src="/pictures/AlgebraicHierarchy.png" align="center" width="50%" height="50%" style="border:3px solid darkblue; margin-left:8px; margin-right:30px;">
+	<br>
+</div>
+
+<div align="center">
+	<br>
+	<p>*Unfortunately, this picture can <em>technically</em> be misleading around the "Ring" and "Abelian Group" portion as it turns out every abelian group can have a ring structure attached to it if the law of composition is defined properly, it just might not be unital. For example, you can define multiplication to send everything to the additive identity. There are clearly no units, however, this will still meet all of the requirements to be a ring (depending on your definition of a ring). You can read more about it <a href="https://math.stackexchange.com/questions/93409/does-every-abelian-group-admit-a-ring-structure">here</a> and <a href="https://math.stackexchange.com/questions/432812/when-is-there-a-ring-structure-on-an-abelian-group-a">here</a>. Some people like to use the term <a href="https://en.wikipedia.org/wiki/Rng_(algebra)">rng</a>, pronounced "rung", to distinguish between rings without unit and rings with. Personally, I believe that nonunital rings should be categorized as rings and the almighty Hungerford, scripture for algebraists, doesn't require rings to be unital so therefore it must be true. That being said, I still decided to have separate classifications to distinguish the differences that we typically care about between the two algebraic objects.</p>
+</div>
+<br clear="all" />
