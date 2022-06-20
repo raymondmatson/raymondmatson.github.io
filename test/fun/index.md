@@ -136,6 +136,14 @@ title: Teaching
 				<li>What’s an example of an integral domain \(R\) with non-maximal ideal \(I\) such that \(char R = 0\) but \(char R/I \neq 0\)?</li><br>
 				<li>For a commutative unital ring \(R\), suppose that \(f = a_nx^n + a_{n−1}x^{n−1} + \cdots + a_0\) is a zero divisor in \(R[x]\). Prove that there exists some \(b \in R\) such that \(b a_n = b a_{n-1}  = \cdots = b a_0 = 0\).</li><br>
 				<li>For a commutative unital ring \(R\) and polynomial \(f = a_nx^n + a_{n−1}x^{n−1} + \cdots + a_0 \in R[x]\), \(f\) is a unit in \(R[x]\) if and only if \(a_0\) is a unit in \(R\) and \(a_1, \cdots, a_n\) are nilpotent.</li><br>
+				<li>Suppose \(R\) is a ring such that \(r^2 = r\) for all \(r \in R\). Prove
+					<ol type="a" style="list-style-position: inside; margin-left:30px;">
+						<li>\(R\) is commutative.</li>
+						<li>every element is its own additive inverse.</li>
+						<li>every finitely generated ideal is principal.</li>
+						<li>every prime ideal is maximal.</li>
+					</ol>
+				</li><br>
 				<li>For indeterminates \(x\) and \(y\) and a field \(k\), prove that \((x,y)\) is not a principal ideal of \(k[x,y]\).</li><br>
 			</ol>
 			<br>
