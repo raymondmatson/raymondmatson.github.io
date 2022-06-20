@@ -44,9 +44,11 @@ title: Teaching
 	<div align=center style="margin-left:10px; margin-right:50px;">
 		<p><u>Standard Exercises in Algebra</u>:</p><br>
 		<div align=left>
-			<p>In studying for the Algebra Qualifying Exam, these are some exercises you should really really know. The majority of these are either common questions on past qualifying exams or popular homework problems chosen from Hungerford's <i>Algebra</i>. I'd like to give a huge thank you to <a href="https://org.coloradomesa.edu/~mapierce2/">Mike Pierce</a> for providing me with a majority of these problems</p>
+			<p>In studying for the Algebra Qualifying Exam, these are some exercises you should really really know. The majority of these are either common questions on past qualifying exams or popular homework problems chosen from Hungerford's <i>Algebra</i>.</p>
 			<br>
-			<p>Since these exercises are so fundamental, solutions to many of them can be found either in <a href="">John Dusel’s notes</a>, or in <a href="">Kayla Murray’s notes</a>, or somewhere online like <a href="">Math Stack Exchange</a> (MathSE). If you find a solution online, you should send me a link so I can post it here. Otherwise, if you think it’ll help you study, you can type up a solution and send me a PDF to post here. Or better, you can type up your solution on MathSE so that other algebra students can easily find it, add to it, comment on it, etc. The MathSE community is going through a bit of a phase right now, though, so it would be a good idea to read over this <a href="">brief guide to posting on MathSE</a> before writing up your solution there.</p>
+			<p>Since these exercises are fairly common, solutions to many of them can be found either in <a href="">John Dusel’s notes</a>, or in <a href="">Kayla Murray’s notes</a>, or somewhere online like <a href="">Math Stack Exchange</a> (MathSE). If you find a solution online, you should send me a link so I can post it here. Otherwise, if you think it’ll help you study, you can type up a solution and send me a PDF to post on Alec Martin's website. Or better, you can type up your solution on MathSE so that other algebra students can easily find it, add to it, comment on it, etc.</p>
+			<br>
+			<p>Click on any of the following buttons for a list of questions in that subject:</p>
 			<br>
 		</div>
 		<br>
@@ -138,9 +140,9 @@ title: Teaching
 				<li>For a commutative unital ring \(R\) and polynomial \(f = a_nx^n + a_{n−1}x^{n−1} + \cdots + a_0 \in R[x]\), \(f\) is a unit in \(R[x]\) if and only if \(a_0\) is a unit in \(R\) and \(a_1, \cdots, a_n\) are nilpotent.</li><br>
 				<li>Suppose \(R\) is a ring such that \(r^2 = r\) for all \(r \in R\). Prove
 					<ol type="a" style="list-style-position: inside; margin-left:30px;">
-						<li>\(R\) is commutative.</li>
 						<li>every element is its own additive inverse.</li>
-						<li>every finitely generated ideal is principal.</li>
+						<li>\(R\) is commutative.</li>
+						<li>every finitely generated ideal is principal. (<a href="https://math.stackexchange.com/questions/110329/finitely-generated-ideals-in-a-boolean-ring-are-principal-why">MathSE</a>)</li>
 						<li>every prime ideal is maximal.</li>
 					</ol>
 				</li><br>

@@ -33,7 +33,7 @@ title: Teaching
     <div align=center style="margin-left:10px; margin-right:50px;">
         <p><u>Algebra Problems on Which to Chew</u>:</p><br>
         <div align=left>
-            <p>You might at some time find yourself sick of studying Hungerford and the <a href="/test/fun/">fundamental exercises</a>, and need something meatier to think about. That is the purpose of this list of problems. They are listed in no particular order; I’ll add new problems to the list as I find ones I like. Some of these problems are still just past qualifying exam problems or Hungerford exercises, but most of them are a little more exotic. Some of these problems are hard, and so will be marked with a * symbol. Then some of these problems are real toughies, and are marked with a **.</p>
+            <p>If you're up for a bigger challenge or maybe you're just tired of doing a bunch of the <a href="/test/fun/">standard exercises</a> and reading your notes but still want to be productive, the following problems are for you! In no particular order, the following problems are a little more exotic and more than likely won't appear on your exams (although a few of them are from previous exams or directly out of Hungerford so no promises). Harder problems will be marked with a * symbol and even harder ones will be marked with a **.</p>
             <br>
         </div>
         <br>
@@ -44,7 +44,7 @@ title: Teaching
             <li>* Prove that the Galois group of \(K(x)\) over \(K\) is isomorphic to \(PGL_n(K)\). (See Hungerford Chapter V, Section 3, Exercise 6)</li><br>
             <li>For a prime integer \(p\), let \(f\) be an irreducible polynomial of degree \(p\) over \(\mathbb{Q}\) that has exactly two nonreal roots in \(\mathbb{C}\). Then the Galois group of \(f\) is the symmetric group \(S_p\). (Hungerford Chapter V, Theorem 4.12)</li><br>
             <li>* Prove that over any base field, the polynomial \(x^3 − 3x + 1\) is either irreducible or splits completely. (<a href="https://math.stackexchange.com/questions/26477/irreducibility-and-splitting-fields">MathSE</a>)</li><br>
-            <li>** Prove that every element of a finite field can be written as the sum of two squares.</li><br>
+            <li>** Prove that every element of a finite field can be written as the sum of two squares. (<a href="https://math.stackexchange.com/questions/1266433/squares-in-a-finite-field">MathSE</a>)</li><br>
             <li>Prove that if every proper ideal of a ring is prime, then that ring must be a field.</li><br>
             <li>Prove that an infinite integral domain with finitely many units must have an infinite number of max ideals. In particular, the PID \(\mathbb{Z}\) has infinitely many primes.</li><br>
             <li>Recall that the <i>Jacobson radical </i> \(J\) of a ring is the intersection of all max ideals in the ring. Prove that if \(x \in J\), then \(x+1\) is invertible. (<a href="https://math.stackexchange.com/questions/2049229/an-elementary-property-of-jacobson-radical-if-a-in-j-then-1-a-is-invertib">MathSE</a>)</li><br>
