@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaching
+title: Exercises
 ---
 
 <!-- Allows for LaTeX writing -->
@@ -22,8 +22,6 @@ title: Teaching
 
 
 <div style="border-top: 1px solid #d5d5d5"></div>
-<br>
-<br>
 <div style="background-color: #f3f3f3; ">
     <br/>
     <style>
@@ -33,7 +31,7 @@ title: Teaching
     <div align=center style="margin-left:10px; margin-right:50px;">
         <p><u>Tricky Algebra Problems</u>:</p><br>
         <div align=left>
-            <p>If you're up for a bigger challenge or maybe you're just tired of doing a bunch of the <a href="/test/fun/">standard exercises</a> and reading your notes but still want to be productive, the following problems are for you! In no particular order, the following problems are a little more exotic and more than likely won't appear on your exams (although a few of them are from previous exams or directly out of Hungerford so no promises). Harder problems will be marked with a * symbol and even harder ones will be marked with a **.</p>
+            <p>If you're up for a bigger challenge or maybe you're just tired of doing a bunch of the <a href="/quals/algebra/exercises/">standard exercises</a> and reading your notes but still want to be productive, the following problems are for you! In no particular order, the following problems are a little more exotic and more than likely won't appear on your exams (although a few of them are from previous exams or directly out of Hungerford so no promises). Harder problems will be marked with a * symbol and even harder ones will be marked with a **.</p>
             <br>
         </div>
         <br>

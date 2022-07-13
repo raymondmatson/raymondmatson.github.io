@@ -62,7 +62,7 @@ title: Test Page
         <a href="/test/fun/">Standard Exercises in Algebra</a> — This is a list of those ubiquitous algebra exercises that pop up on many exams and are in most algebra textbooks. You should hopefully know how to solve all of these problems by the time you take your qual!
         <br>
         <br>
-        <a href="/test/chew/">Algebra Problems on Which to Chew</a> — These have more meat on them than the other exercises.
+        <a href="/test/chew/">Harder Algebra Problems</a> — These have more meat on them than the other exercises.
         </p>
     </div>
     <br>
