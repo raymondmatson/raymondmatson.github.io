@@ -44,7 +44,7 @@ title: Exercises
 		<div align=left>
 			<p>In studying for the Algebra Qualifying Exam, these are some exercises you should really really know. The majority of these are either common questions on past qualifying exams or popular homework problems chosen from Hungerford's <i>Algebra</i>.</p>
 			<br>
-			<p>Since these exercises are fairly common, solutions to many of them can be found either in <a href="">John Dusel’s notes</a>, or in <a href="">Kayla Murray’s notes</a>, or somewhere online like <a href="">Math Stack Exchange</a> (MathSE). If you find a solution online, you should send me a link so I can post it here. Otherwise, if you think it’ll help you study, you can type up a solution and send me a PDF to post on Alec Martin's website. Or better, you can type up your solution on MathSE so that other algebra students can easily find it, add to it, comment on it, etc.</p>
+			<p>Since these exercises are fairly common, solutions to many of them can be found either in John Dusel’s notes, or in <a href="murray-qual-binder.pdf">Kayla Murray’s notes</a>, or somewhere online like <a href="">Math Stack Exchange</a> (MathSE). If you find a solution online, you should send me a link so I can post it here. Otherwise, if you think it’ll help you study, you can type up a solution and send me a PDF to post on Alec Martin's website. Or better, you can type up your solution on MathSE so that other algebra students can easily find it, add to it, comment on it, etc.</p>
 			<br>
 			<p>Click on any of the following buttons for a list of questions in that subject:</p>
 			<br>
