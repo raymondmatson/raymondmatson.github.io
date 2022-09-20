@@ -35,7 +35,7 @@ title: GSRTS
 	<h4 style="margin-top:35px; margin-bottom:15px; color: #383838">UCR Graduate Student Representation Theory Seminar</h4>
 </div>
 
-<p style="margin-left: 50px; margin-right: 50px;">This is the website for the grad-student run Graduate Student Representation Theory Seminar (GSRTS) at UC Riverside, which meets on Thursdays from 12:30-1:50pm. If you wish to attend, please contact Raymond Matson (rmats014@ucr.edu) for any questions or comments concerning the seminar.
+<p style="margin-left: 50px; margin-right: 50px;">This is the website for the grad-student run Graduate Student Representation Theory Seminar (GSRTS) at UC Riverside, which meets on Thursdays from 12:30-1:50pm. If you wish to attend, please contact Raymond Matson (email located at bottom of the page) for any questions or comments concerning the seminar.
 
 GSRTS is an extension of the Lie Theory Seminar that is run on Tuesdays from 12:30-1:50pm. The website for that seminar is available at <a href="https://sites.google.com/view/petersamuelson/lie-theory-seminar">here</a>.</p>
 
@@ -48,10 +48,6 @@ GSRTS is an extension of the Lie Theory Seminar that is run on Tuesdays from 12:
 		<br><br><br>
 		<h1 onclick="toggleDetails('Fall2022')" style="font-size: 2.5em; text-align: center; margin-top:10px; margin-bottom:10px; color: #05426c"><u>Fall 2022</u></h1>
 		<ul id='Fall2022' style="display: inline-block; text-align: left; margin-left: 50px; margin-right: 50px; list-style-type:none;">
-			<!-- <br>
-			<li style="color: #606060"><b>December 24, 2022</b>: </li>
-			<li style="color: #606060"><b>Title</b>: </li>
-			<li style="color: #606060"><b>Abstract</b>: </li>
 			<br>
 			<li style="color: #606060"><b>November 17, 2022</b>: </li>
 			<li style="color: #606060"><b>Title</b>: </li>
@@ -76,10 +72,6 @@ GSRTS is an extension of the Lie Theory Seminar that is run on Tuesdays from 12:
 			<li style="color: #606060"><b>October 13, 2022</b>: </li>
 			<li style="color: #606060"><b>Title</b>: </li>
 			<li style="color: #606060"><b>Abstract</b>: </li>
-			<br>
-			<li style="color: #606060"><b>October 6, 2022</b>: </li>
-			<li style="color: #606060"><b>Title</b>: </li>
-			<li style="color: #606060"><b>Abstract</b>: </li> -->
 		</ul>
 		<br>
 		<br>
@@ -159,7 +151,7 @@ GSRTS is an extension of the Lie Theory Seminar that is run on Tuesdays from 12:
 			<br>
 			<li style="color: #606060"><b>May 6, 2021</b>: Maranda Smith</li>
 			<li style="color: #606060"><b>Title</b>: Short Exact Sequences and Polynomial Recursion</li>
-			<li style="color: #606060"><b>Abstract</b>: We will briefly review the structure of type <span class="math inline">\(D\)</span> current algebras and introduce the modules <span class="math inline">\M(v, \lambda)\)</span>. As of now there are 5 right exact sequences involving these modules which are conjectured to be full exact. Based on this conjecture, we will discuss what recursions are possible for their graded characters and what this means for the representation theory of highest weight modules over type <span class="math inline">\(D\)</span> current algebras as a whole.</li>
+			<li style="color: #606060"><b>Abstract</b>: We will briefly review the structure of type <span class="math inline">\(D\)</span> current algebras and introduce the modules <span class="math inline">\(M(v, \lambda)\)</span>. As of now there are 5 right exact sequences involving these modules which are conjectured to be full exact. Based on this conjecture, we will discuss what recursions are possible for their graded characters and what this means for the representation theory of highest weight modules over type <span class="math inline">\(D\)</span> current algebras as a whole.</li>
 			<br>
 			<li style="color: #606060"><b>April 22, 2021</b>: Jonathan Dugan</li>
 			<li style="color: #606060"><b>Title</b>: Macdonald Polynomials and Demazure Modules for the Current Algebra <span class="math inline">\(\mathfrak{sl}_{n+1}[t]\)</span>: A Detailed Look at Explicit Examples</li>
@@ -174,7 +166,7 @@ GSRTS is an extension of the Lie Theory Seminar that is run on Tuesdays from 12:
 			<li style="color: #606060"><b>Title</b>: Beginnings on graded characters of level-2 Demazure modules for type-D</li>
 			<li style="color: #606060"><b>Abstract</b>: In 2015 Jefferey Wand introduced a family of modules <span class="math inline">\(M(v, \lambda)\)</span> over type-<span class="math inline">\(A\)</span> current algebras. These modules interpolate between level-1 and level-2 Demazure modules, giving way for Biswal, Chari, Shereen, and Wand to define <span class="math inline">\(\text{ch}_{\text{gr}}M(v, \lambda)\)</span> as integer linear combination of Macdonald Polynomials. As these modules can be similarly defined for type-<span class="math inline">\(D\)</span> current algebras, the goal is to extend these results to this setting.</li>
 			<br>
-			<li style="color: #606060"><b>March 4, 2021</b>: </li>
+			<li style="color: #606060"><b>March 4, 2021</b>: Alex Pokorny</li>
 			<li style="color: #606060"><b>Title</b>: Skein Theories Coming From Representation Theory</li>
 			<li style="color: #606060"><b>Abstract</b>: A skein theory is an attempt to build a sort of algebraic topology based on links in 3-manifolds. They were invented to generalize the idea of knot polynomials to different manifolds. In this talk I will give some examples of skein theories which emulate and extend parts of the representation theory of certain quantum groups.</li>
 			<br>
@@ -186,9 +178,9 @@ GSRTS is an extension of the Lie Theory Seminar that is run on Tuesdays from 12:
 			<li style="color: #606060"><b>Title</b>: Macdonald Polynomials and Demazure Modules for the Current Algebra <span class="math inline">\(\mathfrak{sl}_{n+1}[t]\)</span>, Part II</li>
 			<li style="color: #606060"><b>Abstract</b>: In this talk, I will continue with the story that we began the previous week. I will finish the discussion of Demazure modules by exploring on the work of Chari et al to find their characters using the representation theory of the modules <span class="math inline">\(M(v, \lambda)\)</span>. I will then finish by discussing my work to expand on their efforts, along with showing a few examples.</li>
 			<br>
-			<li style="color: #606060"><b>January 21, 2021</b>: </li>
+			<li style="color: #606060"><b>January 21, 2021</b>: Jonathan Dugan</li>
 			<li style="color: #606060"><b>Title</b>: Macdonald Polynomials and Demazure Modules for the Current Algebra <span class="math inline">\(\mathfrak{sl}_{n+1}[t]\)</span>, Part I</li>
-			<li style="color: #606060"><b>Abstract</b>: The notion of a Demazure module arises naturally from the representation theory of affine and quantum affine Lie algebras. An important family of these are the stable Demazure modules <span class="math inline">\(D(ell, \lambda)\)</span> which admit an action of the current algebra. To study the structure of these modules, an important question to ask is, “What are their graded characters?” In the simply laced case, it was found through the work of Sanderson and Ion that the specialized Macdonald polynomials <span class="math inline">\(P_{\lambda}(z, q, 0)\)</span> are the characters of the level one Demazure module <span class="math inline">\(D(1, \lambda)\)</span>, and in 2012 Naoi showed that for types BCF to find the graded characters for <span class="math inline">\(D(1, \lambda)\)</span>, it suffices to study the relationship between level one and level two Demazure modules for type <span class="math inline">\(A\)</span>. To tackle this problem, in 2015 Wand introduced the Modules <span class="math inline">\(M(v, \lambda)\)</span> which interpolate between level one and level two Demazure modules. In 2020 in a paper published on the arXiv, Chari et. al showed for certain pairs <span class="math inline">\((v, \lambda) \in P^+ \times P^+\)</span> that the graded characters of these modules <span class="math inline">\(M(v, \lambda)\)</span> are certain polynomials <span class="math inline">\(G_{v, \lambda}(z, q)\)</span>. In this talk, I will discuss my work to expand this equality to include all pairs of weights <span class="math inline">\((v, \lambda) \in P^+ \times P^+\)</span>.</li>
+			<li style="color: #606060"><b>Abstract</b>: The notion of a Demazure module arises naturally from the representation theory of affine and quantum affine Lie algebras. An important family of these are the stable Demazure modules <span class="math inline">\(D(\ell, \lambda)\)</span> which admit an action of the current algebra. To study the structure of these modules, an important question to ask is, “What are their graded characters?” In the simply laced case, it was found through the work of Sanderson and Ion that the specialized Macdonald polynomials <span class="math inline">\(P_{\lambda}(z, q, 0)\)</span> are the characters of the level one Demazure module <span class="math inline">\(D(1, \lambda)\)</span>, and in 2012 Naoi showed that for types BCF to find the graded characters for <span class="math inline">\(D(1, \lambda)\)</span>, it suffices to study the relationship between level one and level two Demazure modules for type <span class="math inline">\(A\)</span>. To tackle this problem, in 2015 Wand introduced the Modules <span class="math inline">\(M(v, \lambda)\)</span> which interpolate between level one and level two Demazure modules. In 2020 in a paper published on the arXiv, Chari et. al showed for certain pairs <span class="math inline">\((v, \lambda) \in P^+ \times P^+\)</span> that the graded characters of these modules <span class="math inline">\(M(v, \lambda)\)</span> are certain polynomials <span class="math inline">\(G_{v, \lambda}(z, q)\)</span>. In this talk, I will discuss my work to expand this equality to include all pairs of weights <span class="math inline">\((v, \lambda) \in P^+ \times P^+\)</span>.</li>
 		</ul>
 		<br>
 		<br>
