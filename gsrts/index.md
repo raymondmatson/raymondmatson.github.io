@@ -43,7 +43,7 @@ GSRTS is an extension of the Lie Theory Seminar that is run on Tuesdays from 12:
 <br>
 <div style="border-top: 1px solid #d5d5d5; margin-bottom:15px;">
 	<div style="display:inline-block">
-		<h4 style="margin-top:25px; margin-bottom:15px; color: #383838; font-size: 3em;">Past Speakers</h4>
+		<h4 style="margin-top:25px; margin-bottom:15px; color: #383838; font-size: 3em;">Upcoming/Past Speakers</h4>
 		<p style="font-size: 1em;">(click to expand)</p>
 		<br><br><br>
 		<h1 onclick="toggleDetails('Fall2022')" style="font-size: 2.5em; text-align: center; margin-top:10px; margin-bottom:10px; color: #05426c"><u>Fall 2022</u></h1>
@@ -57,11 +57,11 @@ GSRTS is an extension of the Lie Theory Seminar that is run on Tuesdays from 12:
 			<li style="color: #606060"><b>Title</b>: </li>
 			<li style="color: #606060"><b>Abstract</b>: </li>
 			<br>
-			<li style="color: #606060"><b>November 3, 2022</b>: </li>
+			<li style="color: #606060"><b>November 3, 2022</b>: Anthony Muljat</li>
 			<li style="color: #606060"><b>Title</b>: </li>
 			<li style="color: #606060"><b>Abstract</b>: </li>
 			<br>
-			<li style="color: #606060"><b>October 27, 2022</b>: </li>
+			<li style="color: #606060"><b>October 27, 2022</b>: Joseph Wagner</li>
 			<li style="color: #606060"><b>Title</b>: </li>
 			<li style="color: #606060"><b>Abstract</b>: </li>
 			<br>
@@ -69,7 +69,11 @@ GSRTS is an extension of the Lie Theory Seminar that is run on Tuesdays from 12:
 			<li style="color: #606060"><b>Title</b>: </li>
 			<li style="color: #606060"><b>Abstract</b>: </li>
 			<br>
-			<li style="color: #606060"><b>October 13, 2022</b>: </li>
+			<li style="color: #606060"><b>October 13, 2022</b>: Raymond Matson</li>
+			<li style="color: #606060"><b>Title</b>: </li>
+			<li style="color: #606060"><b>Abstract</b>: </li>
+			<br>
+			<li style="color: #606060"><b>October 6, 2022</b>: Raymond Matson</li>
 			<li style="color: #606060"><b>Title</b>: </li>
 			<li style="color: #606060"><b>Abstract</b>: </li>
 		</ul>
