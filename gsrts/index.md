@@ -35,7 +35,7 @@ title: GSRTS
 	<h4 style="margin-top:35px; margin-bottom:15px; color: #383838">UCR Graduate Student Representation Theory Seminar</h4>
 </div>
 
-<p style="margin-left: 50px; margin-right: 50px;">This is the website for the grad-student run Graduate Student Representation Theory Seminar (GSRTS) at UC Riverside, which meets on Thursdays from 12:30-1:50pm. If you wish to attend, please contact Raymond Matson (email located at bottom of the page) for any questions or comments concerning the seminar.
+<p style="margin-left: 50px; margin-right: 50px;">This is the website for the grad-student run Graduate Student Representation Theory Seminar (GSRTS) at UC Riverside, which meets on Thursdays from 12:30-1:50pm. If you wish to attend, please contact Raymond Matson (email located at the bottom of the page) for any questions or comments concerning the seminar.
 
 GSRTS is an extension of the Lie Theory Seminar that is run on Tuesdays from 12:30-1:50pm. The website for that seminar is available at <a href="https://sites.google.com/view/petersamuelson/lie-theory-seminar">here</a>.</p>
 
@@ -70,12 +70,12 @@ GSRTS is an extension of the Lie Theory Seminar that is run on Tuesdays from 12:
 			<li style="color: #606060"><b>Abstract</b>: </li>
 			<br>
 			<li style="color: #606060"><b>October 13, 2022</b>: Raymond Matson</li>
-			<li style="color: #606060"><b>Title</b>: </li>
-			<li style="color: #606060"><b>Abstract</b>: </li>
+			<li style="color: #606060"><b>Title</b>: Stated Skein Modules and DAHAs</li>
+			<li style="color: #606060"><b>Abstract</b>: Some knot invariants come from looking at highly noncommutative associated groups. As these groups can be incredibly difficult to work with, one can instead consider corresponding commutative algebras and representations. However, if you want to still extract knot invariants you need to quantize these algebras and skein theory provides a breathable way to understand these deformations. In 2012, Berest and Samuelson provided a geometric way to understand these invariants and in the process uncovered certain defining modules for a bigger underlying beast, double affine Hecke algebras. I will discuss these module structures and how they act in the context of a newer, more general skein theory recently established by Thang Lê. This new theory, called stated skein theory, provides significant additional algebraic structure to these algebras and modules and will hopefully lead to more insights into a nicer presentation of these DAHAs.</li>
 			<br>
 			<li style="color: #606060"><b>October 6, 2022</b>: Raymond Matson</li>
-			<li style="color: #606060"><b>Title</b>: </li>
-			<li style="color: #606060"><b>Abstract</b>: </li>
+			<li style="color: #606060"><b>Title</b>: Two Truths and a Lie</li>
+			<li style="color: #606060"><b>Abstract</b>: In this talk we will go over fundamental definitions and ideas in Lie theory that anyone going into Lie theory or representation theory will learn about at some point. My goal is to give a small and hopefully comfortable crash course on some topics in the Lie Algebras electives offered here at UCR and if there's time, introduce a couple of the topics that the algebraists here (in particular our graduate students) are interested in.</li>
 		</ul>
 		<br>
 		<br>
