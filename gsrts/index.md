@@ -75,7 +75,7 @@ GSRTS is an extension of the Lie Theory Seminar that is run on Tuesdays from 12:
 			<br>
 			<li style="color: #606060"><b>October 6, 2022</b>: Raymond Matson</li>
 			<li style="color: #606060"><b>Title</b>: Two Truths and a Lie</li>
-			<li style="color: #606060"><b>Abstract</b>: In this talk we will go over fundamental definitions and ideas in Lie theory that anyone going into Lie theory or representation theory will learn about at some point. My goal is to give a small and hopefully comfortable crash course on some topics in the Lie Algebras electives offered here at UCR and if there's time, introduce a couple of the topics that the algebraists here (in particular our graduate students) are interested in.</li>
+			<li style="color: #606060"><b>Abstract</b>: In this talk we will go over fundamental definitions and ideas in Lie theory that anyone going into Lie theory or representation theory will learn about at some point. My goal is to give a small and hopefully comfortable crash course on some topics in the Lie Algebras electives offered here at UCR and if there's time, introduce a couple of the topics that the algebraists here (in particular us graduate students) are interested in.</li>
 		</ul>
 		<br>
 		<br>
