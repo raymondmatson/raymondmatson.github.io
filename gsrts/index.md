@@ -44,7 +44,7 @@ GSRTS is an extension of the Lie Theory Seminar that is run on Tuesdays from 12:
 <div style="border-top: 1px solid #d5d5d5; margin-bottom:15px;">
 	<div style="display:inline-block">
 		<h4 style="margin-top:25px; margin-bottom:15px; color: #383838; font-size: 3em;">Upcoming/Past Speakers</h4>
-		<p style="font-size: 1em;">(click to expand)</p>
+		<p style="font-size: 1em;">(click to expand/collapse)</p>
 		<br><br><br>
 		<h1 onclick="toggleDetails('Fall2022')" style="font-size: 2.5em; text-align: center; margin-top:10px; margin-bottom:10px; color: #05426c"><u>Fall 2022</u></h1>
 		<ul id='Fall2022' style="display: inline-block; text-align: left; margin-left: 50px; margin-right: 50px; list-style-type:none;">
@@ -62,8 +62,8 @@ GSRTS is an extension of the Lie Theory Seminar that is run on Tuesdays from 12:
 			<li style="color: #606060"><b>Abstract</b>: </li>
 			<br>
 			<li style="color: #606060"><b>October 27, 2022</b>: Joseph Wagner</li>
-			<li style="color: #606060"><b>Title</b>: </li>
-			<li style="color: #606060"><b>Abstract</b>: </li>
+			<li style="color: #606060"><b>Title</b>: Generalized Demazure Modules of the Twisted Current Algebra <span class="math inline">\(^2\tilde{A}_{2\ell-1}\)</span></li>
+			<li style="color: #606060"><b>Abstract</b>: In this talk, I will first give some background information on Lie algebras, including some of their properties and how they can be classified. I'll then introduce twisted Lie algebras, affine Lie algebras, and current algebras, and explain how they are constructed.  Finally, I'll define certain types of Lie algebra representations called Demazure modules, as well as a certain family of generalized Demazure modules which my research focuses on. I'll end the talk with a brief look at what I'm trying to show in my research, and some of the progress I've made so far.</li>
 			<br>
 			<li style="color: #606060"><b>October 13, 2022</b>: Raymond Matson</li>
 			<li style="color: #606060"><b>Title</b>: Stated Skein Modules and DAHAs</li>
