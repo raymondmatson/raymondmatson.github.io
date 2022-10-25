@@ -65,10 +65,6 @@ GSRTS is an extension of the Lie Theory Seminar that is run on Tuesdays from 12:
 			<li style="color: #606060"><b>Title</b>: </li>
 			<li style="color: #606060"><b>Abstract</b>: </li>
 			<br>
-			<li style="color: #606060"><b>October 20, 2022</b>: </li>
-			<li style="color: #606060"><b>Title</b>: </li>
-			<li style="color: #606060"><b>Abstract</b>: </li>
-			<br>
 			<li style="color: #606060"><b>October 13, 2022</b>: Raymond Matson</li>
 			<li style="color: #606060"><b>Title</b>: Stated Skein Modules and DAHAs</li>
 			<li style="color: #606060"><b>Abstract</b>: Some knot invariants come from looking at highly noncommutative associated groups. As these groups can be incredibly difficult to work with, one can instead consider corresponding commutative algebras and representations. However, if you want to still extract knot invariants you need to quantize these algebras and skein theory provides a breathable way to understand these deformations. In 2012, Berest and Samuelson provided a geometric way to understand these invariants and in the process uncovered certain defining modules for a bigger underlying beast, double affine Hecke algebras. I will discuss these module structures and how they act in the context of a newer, more general skein theory recently established by Thang Lê. This new theory, called stated skein theory, provides significant additional algebraic structure to these algebras and modules and will hopefully lead to more insights into a nicer presentation of these DAHAs.</li>
