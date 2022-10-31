@@ -106,15 +106,15 @@ title: Topology Qual Stuff
 			</tr>
 			<tr>
 				<td align=center>Genus 2 Surface</td>
-				<td align=center>\(S_2\)</td>
-				<td align=center>\(\pi_1(S_2)= < a,b,c,d \mid aba^{-1}b^{-1}cdc^{-1}d^{-1} >\)</td>
-				<td align=center>\(H_k(S_2) = \begin{cases} \mathbb{Z} & \text{if } n = 0 \\ \mathbb{Z}^{4} & \text{if } n = 1 \\ \mathbb{Z} & \text{if } n = 2 \\ 0 & \text{if } n \geq 3 \end{cases} \)</td>
+				<td align=center>\(\Sigma_2\)</td>
+				<td align=center>\(\pi_1(\Sigma_2)= < a,b,c,d \mid aba^{-1}b^{-1}cdc^{-1}d^{-1} >\)</td>
+				<td align=center>\(H_k(\Sigma_2) = \begin{cases} \mathbb{Z} & \text{if } n = 0 \\ \mathbb{Z}^{4} & \text{if } n = 1 \\ \mathbb{Z} & \text{if } n = 2 \\ 0 & \text{if } n \geq 3 \end{cases} \)</td>
 			</tr>
 			<tr>
 				<td align=center>Genus g Surface</td>
-				<td align=center>\(S_g\)</td>
-				<td align=center>\(\pi_1(S_g)= < a_1, b_1, \cdots, a_g, b_g \mid [a_1, b_1] \cdots [a_g, b_g] >\)</td>
-				<td align=center>\(H_k(S_g) = \begin{cases} \mathbb{Z} & \text{if } n = 0 \\ \mathbb{Z}^{2g} & \text{if } n = 1 \\ \mathbb{Z} & \text{if } n = 2 \\ 0 & \text{if } n \geq 3 \end{cases} \)</td>
+				<td align=center>\(\Sigma_g\)</td>
+				<td align=center>\(\pi_1(\Sigma_g)= < a_1, b_1, \cdots, a_g, b_g \mid [a_1, b_1] \cdots [a_g, b_g] >\)</td>
+				<td align=center>\(H_k(\Sigma_g) = \begin{cases} \mathbb{Z} & \text{if } n = 0 \\ \mathbb{Z}^{2g} & \text{if } n = 1 \\ \mathbb{Z} & \text{if } n = 2 \\ 0 & \text{if } n \geq 3 \end{cases} \)</td>
 			</tr>
 			<tr>
 				<td align=center>Wedged Spaces</td>
