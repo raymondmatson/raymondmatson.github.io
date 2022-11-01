@@ -53,13 +53,9 @@ GSRTS is an extension of the Lie Theory Seminar that is run on Tuesdays from 12:
 			<li style="color: #606060"><b>Title</b>: </li>
 			<li style="color: #606060"><b>Abstract</b>: </li>
 			<br>
-			<li style="color: #606060"><b>November 10, 2022</b>: </li>
-			<li style="color: #606060"><b>Title</b>: </li>
-			<li style="color: #606060"><b>Abstract</b>: </li>
-			<br>
 			<li style="color: #606060"><b>November 3, 2022</b>: Anthony Muljat</li>
-			<li style="color: #606060"><b>Title</b>: </li>
-			<li style="color: #606060"><b>Abstract</b>: </li>
+			<li style="color: #606060"><b>Title</b>: Representation stability for generalized hyperoctahedral subgroups of wreath products</li>
+			<li style="color: #606060"><b>Abstract</b>:  A general goal in the field of representation stability is to show that, given an ascending chain of groups \(\{G_n\}\) and a field \(k\), any sequence \(\{V_n\}\) of finite-dimensional representations of \(G_n\) over \(k\) that satisfies a certain finite generation condition is representation stable. This result holds when \(G_n\) are the Weyl groups for types \(B\)/\(C\), and \(k\) is algebraically closed and of characteristic 0. Wilson (2014) showed that this property descends to the Weyl groups for type \(D\). In this talk, we will discuss our application of Wilson’s method to the wreath products \(A \sim S_n\) and analogous subgroups. In doing so, we generalize the stability result from the case where \(A = \mathbb{Z}_2\) to an arbitrary finite abelian group \(A\).</li>
 			<br>
 			<li style="color: #606060"><b>October 27, 2022</b>: Joseph Wagner</li>
 			<li style="color: #606060"><b>Title</b>: Generalized Demazure Modules of the Twisted Current Algebra <span class="math inline">\(^2\tilde{A}_{2\ell-1}\)</span></li>
