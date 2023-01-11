@@ -38,7 +38,6 @@ title: GSRTS
 <p style="margin-left: 50px; margin-right: 50px;">This is the website for the grad-student run Graduate Student Representation Theory Seminar (GSRTS) at UC Riverside, which meets on Thursdays from 12:30-1:50pm. If you wish to attend, please contact Raymond Matson (email located at the bottom of the page) for any questions or comments concerning the seminar.
 
 GSRTS is an extension of the Lie Theory Seminar that is run on Tuesdays from 12:30-1:50pm. The website for that seminar is available at <a href="https://sites.google.com/view/petersamuelson/lie-theory-seminar">here</a>.</p>
-
 <br>
 <br>
 <div style="border-top: 1px solid #d5d5d5; margin-bottom:15px;">
@@ -46,12 +45,37 @@ GSRTS is an extension of the Lie Theory Seminar that is run on Tuesdays from 12:
 		<h4 style="margin-top:25px; margin-bottom:15px; color: #383838; font-size: 3em;">Upcoming/Past Speakers</h4>
 		<p style="font-size: 1em;">(click to expand/collapse)</p>
 		<br><br><br>
-		<h1 onclick="toggleDetails('Fall2022')" style="font-size: 2.5em; text-align: center; margin-top:10px; margin-bottom:10px; color: #05426c"><u>Fall 2022</u></h1>
-		<ul id='Fall2022' style="display: inline-block; text-align: left; margin-left: 50px; margin-right: 50px; list-style-type:none;">
+		<h1 onclick="toggleDetails('Wnt2023')" style="font-size: 2.5em; text-align: center; margin-top:10px; margin-bottom:10px; color: #05426c"><u>Winter 2023</u></h1>
+		<ul id='Wnt2023' style="display: inline-block; text-align: left; margin-left: 50px; margin-right: 50px; list-style-type:none;">
 			<br>
-			<li style="color: #606060"><b>November 17, 2022</b>: </li>
+			<li style="color: #606060"><b>March 9, 2023</b>: </li>
 			<li style="color: #606060"><b>Title</b>: </li>
 			<li style="color: #606060"><b>Abstract</b>: </li>
+			<br>
+			<li style="color: #606060"><b>March 2, 2023</b>: </li>
+			<li style="color: #606060"><b>Title</b>: </li>
+			<li style="color: #606060"><b>Abstract</b>: </li>
+			<br>
+			<li style="color: #606060"><b>February 23, 2023</b>: </li>
+			<li style="color: #606060"><b>Title</b>: </li>
+			<li style="color: #606060"><b>Abstract</b>: </li>
+			<br>
+			<li style="color: #606060"><b>February 16, 2023</b>: </li>
+			<li style="color: #606060"><b>Title</b>: </li>
+			<li style="color: #606060"><b>Abstract</b>: </li>
+			<br>
+			<li style="color: #606060"><b>February 9, 2023</b>: </li>
+			<li style="color: #606060"><b>Title</b>: </li>
+			<li style="color: #606060"><b>Abstract</b>: </li>
+			<br>
+			<li style="color: #606060"><b>January 26, 2023</b>: </li>
+			<li style="color: #606060"><b>Title</b>: </li>
+			<li style="color: #606060"><b>Abstract</b>: </li>
+		</ul>
+		<br>
+		<br>
+		<h1 onclick="toggleDetails('Fall2022')" style="font-size: 2.5em; text-align: center; margin-top:10px; margin-bottom:10px; color: #05426c"><u>Fall 2022</u></h1>
+		<ul id='Fall2022' style="display: none; text-align: left; margin-left: 50px; margin-right: 50px; list-style-type:none;">
 			<br>
 			<li style="color: #606060"><b>November 3, 2022</b>: Anthony Muljat</li>
 			<li style="color: #606060"><b>Title</b>: Representation stability for generalized hyperoctahedral subgroups of wreath products</li>
