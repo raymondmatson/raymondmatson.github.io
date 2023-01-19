@@ -52,23 +52,19 @@ GSRTS is an extension of the Lie Theory Seminar that is run on Tuesdays from 12:
 			<li style="color: #606060"><b>Title</b>: </li>
 			<li style="color: #606060"><b>Abstract</b>: </li>
 			<br>
-			<li style="color: #606060"><b>March 2, 2023</b>: </li>
+			<li style="color: #606060"><b>March 2, 2023</b>: Vidur Sury</li>
 			<li style="color: #606060"><b>Title</b>: </li>
 			<li style="color: #606060"><b>Abstract</b>: </li>
 			<br>
-			<li style="color: #606060"><b>February 23, 2023</b>: </li>
+			<li style="color: #606060"><b>February 23, 2023</b>: Zach Virgilio</li>
 			<li style="color: #606060"><b>Title</b>: </li>
 			<li style="color: #606060"><b>Abstract</b>: </li>
 			<br>
-			<li style="color: #606060"><b>February 16, 2023</b>: </li>
+			<li style="color: #606060"><b>February 16, 2023</b>: Raymond Matson</li>
 			<li style="color: #606060"><b>Title</b>: </li>
 			<li style="color: #606060"><b>Abstract</b>: </li>
 			<br>
-			<li style="color: #606060"><b>February 9, 2023</b>: </li>
-			<li style="color: #606060"><b>Title</b>: </li>
-			<li style="color: #606060"><b>Abstract</b>: </li>
-			<br>
-			<li style="color: #606060"><b>January 26, 2023</b>: </li>
+			<li style="color: #606060"><b>February 9, 2023</b>: Anthony Muljat</li>
 			<li style="color: #606060"><b>Title</b>: </li>
 			<li style="color: #606060"><b>Abstract</b>: </li>
 		</ul>
