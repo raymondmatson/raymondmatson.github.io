@@ -65,8 +65,8 @@ GSRTS is an extension of the Lie Theory Seminar that is run on Tuesdays from 12:
 			<li style="color: #606060"><b>Abstract</b>: </li>
 			<br>
 			<li style="color: #606060"><b>February 9, 2023</b>: Raymond Matson</li>
-			<li style="color: #606060"><b>Title</b>: </li>
-			<li style="color: #606060"><b>Abstract</b>: </li>
+			<li style="color: #606060"><b>Title</b>: Approaches To Hecke Algebras</li>
+			<li style="color: #606060"><b>Abstract</b>: Hecke algebras are fascinating and powerful tools used throughout representation theory. I will define Hecke algebras through construction and provide a diagrammatic understanding to their properties. We'll then journey to their affine cousins (and second cousins), affine Hecke algebras and double affine Hecke algebras. The goal of this talk is to introduce all three objects and hopefully provide a reasonable feel of how they work and where they all come from.</li>
 		</ul>
 		<br>
 		<br>
