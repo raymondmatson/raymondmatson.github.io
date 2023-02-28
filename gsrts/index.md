@@ -48,21 +48,13 @@ GSRTS is an extension of the Lie Theory Seminar that is run on Tuesdays from 12:
 		<h1 onclick="toggleDetails('Wnt2023')" style="font-size: 2.5em; text-align: center; margin-top:10px; margin-bottom:10px; color: #05426c"><u>Winter 2023</u></h1>
 		<ul id='Wnt2023' style="display: inline-block; text-align: left; margin-left: 50px; margin-right: 50px; list-style-type:none;">
 			<br>
-			<li style="color: #606060"><b>March 9, 2023</b>: </li>
-			<li style="color: #606060"><b>Title</b>: </li>
-			<li style="color: #606060"><b>Abstract</b>: </li>
-			<br>
 			<li style="color: #606060"><b>March 2, 2023</b>: Vidur Sury</li>
 			<li style="color: #606060"><b>Title</b>: </li>
 			<li style="color: #606060"><b>Abstract</b>: </li>
 			<br>
-			<li style="color: #606060"><b>February 23, 2023</b>: Zach Virgilio</li>
-			<li style="color: #606060"><b>Title</b>: </li>
-			<li style="color: #606060"><b>Abstract</b>: </li>
-			<br>
 			<li style="color: #606060"><b>February 16, 2023</b>: Anthony Muljat</li>
-			<li style="color: #606060"><b>Title</b>: </li>
-			<li style="color: #606060"><b>Abstract</b>: </li>
+			<li style="color: #606060"><b>Title</b>: Representation stability for FI-modules and some analogues</li>
+			<li style="color: #606060"><b>Abstract</b>: The notion of representation stability emerged in the last decade as a means to understand the limiting behavior of certain naturally-arising sequences of representations of finite groups. The idea is to describe such a sequence as a single algebraic object, namely a “category module” for a suitably chosen category. The limiting behavior of this sequence may then be explained in terms of a single finite generation property of the corresponding category module. I will give an overview of the classical case where the category in question is that of finite sets and injective maps (FI), highlighting the implications for homological stability of the symmetric groups with twisted coefficients. Then, I will discuss ongoing work extending these results to other categories and analogous twisted group homologies.</li>
 			<br>
 			<li style="color: #606060"><b>February 9, 2023</b>: Raymond Matson</li>
 			<li style="color: #606060"><b>Title</b>: Approaches To Hecke Algebras</li>
