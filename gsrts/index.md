@@ -49,8 +49,8 @@ GSRTS is an extension of the Lie Theory Seminar that is run on Tuesdays from 12:
 		<ul id='Wnt2023' style="display: inline-block; text-align: left; margin-left: 50px; margin-right: 50px; list-style-type:none;">
 			<br>
 			<li style="color: #606060"><b>March 2, 2023</b>: Vidur Sury</li>
-			<li style="color: #606060"><b>Title</b>: </li>
-			<li style="color: #606060"><b>Abstract</b>: </li>
+			<li style="color: #606060"><b>Title</b>: Matrix Uploaded</li>
+			<li style="color: #606060"><b>Abstract</b>: We fasten our seat belts and take a breezy journey through the world of matrix groups. Groups of matrices being so ubiquitous in mathematics as well as in other sciences, we focus only on a few aspects such as: (i) decomposition theorems (Iwasawa, Bruhat etc.) of matrix groups, (ii) symmetry groups of Platonic solids, (iii) freedom of groups and a remarkable theorem of Jacques Tits, (iv) Gromov's theorem on `word growth', and (v) subgroup growth. Each of these facets reflects diverse aspects.</li>
 			<br>
 			<li style="color: #606060"><b>February 16, 2023</b>: Anthony Muljat</li>
 			<li style="color: #606060"><b>Title</b>: Representation stability for FI-modules and some analogues</li>
