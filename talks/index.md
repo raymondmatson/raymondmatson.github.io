@@ -23,8 +23,51 @@ title: Talks
 
 
 
+
+<br>
+<h3><u>2023</u></h3>
+<h5>The Stated Skein Algebra of the Marked Torus</h5>
+<p style="font-size: 1.3em;">USTARS (University of Washington)</p>
+<p style="font-size: 1.1em;">March 18, 2023</p>
+<br>
+<h5>Quantum Representations and Skein Theory</h5>
+<p style="font-size: 1.3em;">UCR Math Club</p>
+<p style="font-size: 1.1em;">March 3, 2023</p>
+<br>
+<h5>Approaches to Hecke Algebras</h5>
+<p style="font-size: 1.3em;">UCR Graduate Student Representation Theory Seminar</p>
+<p style="font-size: 1.1em;">February 9, 2023</p>
+<br>
+<h5>Towards Defining DAHAs</h5>
+<p style="font-size: 1.3em;">UCR Graduate Student Seminar</p>
+<p style="font-size: 1.1em;">February 3, 2023</p>
+<br>
+<h5>Research Lightning Talk</h5>
+<p style="font-size: 1.3em;">UCR Graduate Student Seminar</p>
+<p style="font-size: 1.1em;">January 13, 2023</p>
+<br>
 <br>
 <h3><u>2022</u></h3>
+<h5>Stated Skein Modules of DAHAs</h5>
+<p style="font-size: 1.3em;">UCR Graduate Student Representation Theory Seminar</p>
+<p style="font-size: 1.1em;">October 13, 2022</p>
+<br>
+<h5>Two Truths and a Lie</h5>
+<p style="font-size: 1.3em;">UCR Graduate Student Representation Theory Seminar</p>
+<p style="font-size: 1.1em;">October 6, 2022</p>
+<br>
+<h5>Stated Skein Modules of DAHAs</h5>
+<p style="font-size: 1.3em;">UCR Lie Theory Seminar</p>
+<p style="font-size: 1.1em;">October 4, 2022</p>
+<br>
+<h5>Stated Skein Modules of DAHAs</h5>
+<p style="font-size: 1.3em;">UCR Graduate Student Seminar</p>
+<p style="font-size: 1.1em;">September 30, 2022</p>
+<br>
+<h5>Stated Skein Modules of DAHAs</h5>
+<p style="font-size: 1.3em;">MSRI Summer Graduate School (University of Hawai'i at Hilo)</p>
+<p style="font-size: 1.1em;">June 27, 2022</p>
+<br>
 <h5>From Knot Invariants to Double Affine Hecke Algebras</h5>
 <p style="font-size: 1.3em;">UCR Graduate Student Representation Theory Seminar</p>
 <p style="font-size: 1.1em;">April 28, 2022</p>
