@@ -26,6 +26,10 @@ title: Talks
 
 <br>
 <h3><u>2023</u></h3>
+<h5>The Kazhdan-Lusztig Presentation</h5>
+<p style="font-size: 1.3em;">UCR Lie Theory Seminar</p>
+<p style="font-size: 1.1em;">May 2, 2023</p>
+<br>
 <h5>The Stated Skein Algebra of the Marked Torus</h5>
 <p style="font-size: 1.3em;">USTARS (University of Washington)</p>
 <p style="font-size: 1.1em;">March 18, 2023</p>
