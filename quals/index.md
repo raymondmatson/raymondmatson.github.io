@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Algebra Qual Stuff
+title: Written Qualifying Exams
 ---
 
 <!-- Allows for LaTeX writing -->
