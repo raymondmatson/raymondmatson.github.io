@@ -49,7 +49,7 @@ title: Teaching
 			</tr>
 			<tr>
 				<td align=center><a href="/teaching/31/Math31_Final_Study_Guide.pdf">Final Study Guide</a></td>
-				<td align=center>Study Guide Solutions</td>
+				<td align=center><a href="/teaching/31/Math31_Final_Review_Solutions.pdf">Study Guide Solutions</a></td>
 			</tr>
 		</table>
 	</div>
