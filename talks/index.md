@@ -26,6 +26,10 @@ title: Talks
 
 <br>
 <h3><u>2024</u></h3>
+<h5>DAHAs and Knot Complements</h5>
+<p style="font-size: 1.3em;">AMS Graduate Chapter Seminar (Ohio University)</p>
+<p style="font-size: 1.1em;">September 19, 2024</p>
+<br>
 <h5>Quantum Groups, Part II: Representations of <span class="math inline">\(U_q(\mathfrak{sl}_2)\)</span></h5>
 <p style="font-size: 1.3em;">UCR Lie Theory Seminar</p>
 <p style="font-size: 1.1em;">April 25, 2024</p>
