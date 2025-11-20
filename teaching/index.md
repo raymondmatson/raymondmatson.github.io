@@ -44,6 +44,18 @@ title: Teaching
 		<h4 style="margin-top:25px; margin-bottom:15px; color: #383838">Past Classes and Discussions (Chronologically)</h4>
 		<ul style="display: inline-block; text-align: center; margin-left: 50px; list-style-type:none;">
 			<br>
+			<h1 style="font-size: 1.2em; text-align: center; margin-top:10px; margin-bottom:10px; color: #05426c"><u>Spring 2024</u></h1>
+			<li style="color: #606060">Math 9C - Calculus III</li>
+			<br>
+			<h1 style="font-size: 1.2em; text-align: center; margin-top:10px; margin-bottom:10px; color: #05426c"><u>Winter 2024</u></h1>
+			<li style="color: #606060">Math 9B - Calculus II</li>
+			<br>
+			<h1 style="font-size: 1.2em; text-align: center; margin-top:10px; margin-bottom:10px; color: #05426c"><u>Fall 2023</u></h1>
+			<li style="color: #606060">Math 31 - Applied Linear Algebra</li>
+			<br>
+			<h1 style="font-size: 1.2em; text-align: center; margin-top:10px; margin-bottom:10px; color: #05426c"><u>Summer 2022</u></h1>
+			<li style="color: #606060">Algebra Qualifying Exam Prep Seminar</li>
+			<br>
 			<h1 style="font-size: 1.2em; text-align: center; margin-top:10px; margin-bottom:10px; color: #05426c"><u>Spring 2022</u></h1>
 			<li style="color: #606060">Math 197 - Research for Undergraduates</li>
 			<li style="color: #606060">Math 10A - Calculus of Several Variables</li>
